@@ -1,0 +1,2993 @@
+city,state,zipcode,city_id
+San Diego,CA,65383,1
+Fresno,IL,79339,2
+Sacramento,TX,87393,3
+Fresno,TX,38666,4
+Los Angeles,CA,23989,5
+Sacramento,NY,71318,6
+Sacramento,NY,57421,7
+San Diego,IL,64361,8
+San Francisco,FL,13227,9
+San Diego,NY,57397,10
+San Diego,FL,70072,11
+Fresno,CA,57401,12
+Los Angeles,CA,91395,13
+Sacramento,NY,28568,14
+Fresno,CA,29191,15
+Sacramento,TX,63853,16
+Sacramento,CA,57513,17
+San Francisco,TX,17359,18
+Los Angeles,NY,11690,19
+Los Angeles,TX,97442,20
+Los Angeles,IL,12888,21
+Los Angeles,NY,63443,22
+Fresno,IL,38811,23
+San Francisco,TX,33081,24
+Sacramento,FL,16851,25
+Los Angeles,IL,31581,26
+San Diego,CA,73665,27
+Sacramento,CA,45375,28
+Los Angeles,NY,25618,29
+San Francisco,FL,11309,30
+Sacramento,CA,74703,31
+San Diego,NY,19858,32
+San Diego,IL,93752,33
+Los Angeles,CA,61325,34
+San Francisco,NY,44242,35
+San Diego,CA,65902,36
+San Diego,NY,70313,37
+Los Angeles,FL,59381,38
+San Diego,CA,22610,39
+Los Angeles,NY,89328,40
+San Diego,FL,57088,41
+San Francisco,FL,35239,42
+San Diego,CA,66947,43
+Sacramento,CA,70379,44
+San Diego,IL,37297,45
+San Francisco,FL,71862,46
+Sacramento,NY,54468,47
+San Diego,CA,40064,48
+Sacramento,FL,54502,49
+Fresno,CA,26896,50
+San Francisco,TX,39228,51
+Los Angeles,NY,25964,52
+San Diego,FL,61792,53
+San Diego,TX,91305,54
+San Diego,IL,79089,55
+Los Angeles,CA,69291,56
+San Francisco,FL,88366,57
+Sacramento,TX,97624,58
+San Francisco,FL,87038,59
+Sacramento,CA,71760,60
+Los Angeles,CA,60339,61
+San Diego,CA,47852,62
+Los Angeles,NY,20582,63
+San Diego,CA,87797,64
+Los Angeles,FL,17654,65
+Los Angeles,NY,76220,66
+Sacramento,NY,27909,67
+Fresno,IL,52141,68
+San Francisco,TX,99388,69
+Sacramento,NY,74756,70
+Sacramento,TX,36251,71
+Fresno,FL,78532,72
+San Francisco,CA,63085,73
+Los Angeles,NY,23864,74
+Fresno,TX,21440,75
+San Diego,IL,83545,76
+Los Angeles,IL,39506,77
+San Diego,IL,98587,78
+Fresno,IL,66989,79
+San Diego,IL,55101,80
+San Diego,FL,35654,81
+Los Angeles,FL,28260,82
+San Francisco,CA,24367,83
+Sacramento,IL,37372,84
+Fresno,NY,10445,85
+Sacramento,TX,11097,86
+San Francisco,FL,48078,87
+Fresno,TX,55038,88
+Los Angeles,NY,48984,89
+Fresno,FL,92471,90
+San Francisco,CA,93992,91
+Sacramento,IL,94674,92
+San Diego,NY,60724,93
+Sacramento,IL,80299,94
+San Francisco,CA,63039,95
+Los Angeles,NY,88108,96
+Fresno,IL,64486,97
+Sacramento,IL,85891,98
+Sacramento,CA,61514,99
+San Francisco,CA,84532,100
+Los Angeles,CA,66497,101
+Fresno,CA,46631,102
+San Diego,TX,87642,103
+San Diego,TX,55033,104
+San Diego,NY,59136,105
+San Francisco,IL,80680,106
+Los Angeles,IL,55266,107
+Los Angeles,IL,85581,108
+San Francisco,NY,35785,109
+Fresno,IL,26151,110
+Sacramento,NY,86748,111
+Sacramento,CA,23389,112
+San Francisco,IL,97204,113
+San Francisco,FL,28572,114
+Los Angeles,NY,94493,115
+San Francisco,CA,99466,116
+Sacramento,CA,79802,117
+Sacramento,CA,97567,118
+San Francisco,TX,93091,119
+Fresno,IL,69229,120
+San Diego,NY,94614,121
+San Diego,IL,67157,122
+Sacramento,NY,23470,123
+Fresno,NY,98601,124
+Sacramento,NY,39637,125
+San Diego,CA,76613,126
+San Francisco,CA,48137,127
+San Diego,NY,80136,128
+Los Angeles,FL,42568,129
+Los Angeles,IL,32340,130
+Los Angeles,CA,30265,131
+San Francisco,NY,88019,132
+San Diego,TX,63640,133
+Sacramento,CA,72385,134
+Fresno,NY,47843,135
+San Francisco,IL,63077,136
+San Diego,CA,32946,137
+Los Angeles,FL,24352,138
+Sacramento,IL,32785,139
+Los Angeles,IL,39301,140
+Fresno,CA,28333,141
+Fresno,FL,63885,142
+San Diego,CA,79681,143
+Sacramento,FL,96050,144
+San Francisco,CA,11339,145
+Fresno,NY,36556,146
+Fresno,TX,95106,147
+San Francisco,NY,54311,148
+San Francisco,IL,16056,149
+San Francisco,CA,10943,150
+San Diego,IL,69693,151
+San Francisco,FL,78745,152
+Los Angeles,IL,83301,153
+San Diego,CA,82941,154
+San Francisco,IL,71481,155
+Sacramento,NY,40991,156
+Fresno,NY,41174,157
+Fresno,CA,33935,158
+San Diego,CA,46625,159
+Sacramento,NY,61130,160
+Fresno,CA,15623,161
+Fresno,FL,33202,162
+Los Angeles,FL,67845,163
+San Francisco,NY,21343,164
+San Francisco,CA,20858,165
+Sacramento,CA,98816,166
+Fresno,CA,97228,167
+Fresno,NY,84200,168
+San Francisco,IL,15409,169
+Los Angeles,IL,93947,170
+San Francisco,CA,98708,171
+San Francisco,CA,34458,172
+Sacramento,NY,97922,173
+Fresno,FL,56386,174
+San Francisco,FL,58752,175
+San Diego,NY,18497,176
+Los Angeles,FL,78755,177
+Los Angeles,IL,84616,178
+San Francisco,IL,25648,179
+Sacramento,FL,90006,180
+Fresno,CA,17782,181
+San Francisco,FL,86772,182
+San Diego,NY,29937,183
+Los Angeles,IL,19052,184
+Los Angeles,TX,15311,185
+Fresno,NY,52313,186
+Los Angeles,FL,38983,187
+San Francisco,FL,95768,188
+San Diego,IL,30565,189
+San Diego,IL,50470,190
+Fresno,FL,52256,191
+Los Angeles,FL,18835,192
+Sacramento,IL,55131,193
+Los Angeles,IL,80688,194
+Sacramento,FL,22392,195
+San Francisco,TX,27352,196
+San Diego,IL,61136,197
+San Diego,NY,75218,198
+Fresno,FL,87522,199
+Fresno,NY,22296,200
+Fresno,TX,63407,201
+Fresno,TX,93308,202
+Fresno,CA,57020,203
+Los Angeles,NY,14674,204
+San Francisco,FL,82340,205
+Los Angeles,NY,66352,206
+San Diego,CA,58001,207
+San Diego,FL,64992,208
+San Francisco,FL,71698,209
+San Diego,TX,35380,210
+Sacramento,FL,61851,211
+San Francisco,CA,65026,212
+Fresno,TX,61835,213
+Los Angeles,FL,22864,214
+Fresno,NY,46679,215
+San Francisco,IL,65583,216
+San Francisco,FL,45138,217
+Los Angeles,TX,94630,218
+Fresno,IL,82157,219
+Los Angeles,NY,77646,220
+Sacramento,TX,38759,221
+San Francisco,TX,99056,222
+Los Angeles,IL,92930,223
+Sacramento,CA,45299,224
+Sacramento,NY,20074,225
+Sacramento,FL,29610,226
+San Francisco,IL,92847,227
+San Diego,NY,48097,228
+Los Angeles,CA,13752,229
+Los Angeles,CA,89342,230
+Los Angeles,TX,18778,231
+Sacramento,IL,81788,232
+San Francisco,IL,59809,233
+Sacramento,FL,41014,234
+Los Angeles,IL,16823,235
+Los Angeles,NY,99592,236
+Los Angeles,CA,54352,237
+Sacramento,TX,51205,238
+Los Angeles,CA,58293,239
+Los Angeles,NY,83221,240
+Los Angeles,NY,25359,241
+San Diego,TX,74968,242
+Sacramento,CA,65871,243
+Los Angeles,CA,37127,244
+Fresno,FL,15796,245
+Los Angeles,FL,37523,246
+San Francisco,TX,21028,247
+Los Angeles,FL,59912,248
+Sacramento,IL,14174,249
+Fresno,NY,39662,250
+San Diego,IL,14187,251
+San Diego,CA,81397,252
+San Francisco,IL,33183,253
+San Francisco,IL,89531,254
+San Francisco,NY,76365,255
+San Diego,NY,83246,256
+Fresno,FL,95150,257
+Los Angeles,FL,96325,258
+Fresno,NY,57102,259
+San Francisco,FL,29040,260
+Los Angeles,NY,20699,261
+Los Angeles,TX,29271,262
+San Diego,CA,89790,263
+Los Angeles,TX,30987,264
+San Francisco,NY,19426,265
+San Francisco,FL,77074,266
+Sacramento,NY,26064,267
+Fresno,CA,57975,268
+San Diego,TX,26675,269
+Sacramento,CA,63062,270
+San Diego,TX,73100,271
+Fresno,CA,27026,272
+San Diego,NY,94923,273
+Sacramento,TX,17784,274
+San Francisco,FL,33938,275
+San Diego,NY,45025,276
+Sacramento,NY,76986,277
+Fresno,NY,87737,278
+San Diego,FL,83265,279
+Los Angeles,NY,68268,280
+Los Angeles,NY,82504,281
+Fresno,CA,85098,282
+Fresno,TX,65725,283
+San Diego,CA,69169,284
+Fresno,CA,66545,285
+San Francisco,CA,61212,286
+San Francisco,CA,33992,287
+Sacramento,NY,89948,288
+Los Angeles,NY,39510,289
+Los Angeles,TX,43515,290
+San Diego,CA,18058,291
+San Diego,CA,77353,292
+Sacramento,NY,42636,293
+San Francisco,TX,68531,294
+San Francisco,NY,81859,295
+Sacramento,FL,72975,296
+Fresno,IL,31017,297
+Sacramento,NY,79684,298
+San Diego,IL,72177,299
+Sacramento,NY,81038,300
+Los Angeles,IL,68343,301
+Fresno,IL,99215,302
+San Diego,IL,68426,303
+Sacramento,TX,93892,304
+San Francisco,IL,19908,305
+San Francisco,CA,54146,306
+San Diego,CA,11489,307
+Fresno,TX,16892,308
+San Francisco,NY,51963,309
+Fresno,FL,60346,310
+San Francisco,TX,94121,311
+San Diego,TX,24264,312
+San Diego,FL,89635,313
+Sacramento,CA,50757,314
+Sacramento,CA,17681,315
+Fresno,FL,55624,316
+San Diego,CA,69573,317
+Fresno,NY,40666,318
+Los Angeles,TX,54871,319
+San Francisco,TX,17869,320
+Fresno,TX,33519,321
+Los Angeles,NY,97233,322
+San Francisco,CA,29647,323
+San Diego,NY,38001,324
+Sacramento,CA,87840,325
+San Diego,TX,58273,326
+Los Angeles,FL,15134,327
+San Diego,CA,11522,328
+San Diego,FL,58457,329
+Sacramento,TX,57822,330
+Los Angeles,FL,18590,331
+Los Angeles,TX,32540,332
+Sacramento,NY,95061,333
+Los Angeles,IL,56870,334
+Los Angeles,TX,70276,335
+Fresno,FL,42380,336
+Sacramento,TX,40884,337
+San Diego,NY,97622,338
+San Francisco,NY,45725,339
+San Diego,CA,18928,340
+San Francisco,FL,19441,341
+San Diego,IL,93570,342
+Los Angeles,CA,69765,343
+Sacramento,TX,78801,344
+San Francisco,NY,51007,345
+San Diego,CA,10238,346
+Los Angeles,IL,60485,347
+San Diego,NY,76921,348
+Sacramento,NY,20830,349
+Sacramento,FL,75928,350
+Fresno,FL,33153,351
+San Francisco,IL,15945,352
+Los Angeles,NY,23082,353
+Sacramento,CA,42548,354
+San Diego,CA,44650,355
+Los Angeles,NY,33826,356
+Sacramento,FL,14887,357
+Los Angeles,IL,39118,358
+Los Angeles,CA,22656,359
+Sacramento,FL,93371,360
+Sacramento,NY,95473,361
+Fresno,NY,98045,362
+Sacramento,IL,11489,363
+Sacramento,IL,27970,364
+San Diego,NY,97217,365
+Sacramento,FL,89624,366
+San Francisco,CA,37518,367
+San Francisco,CA,22482,368
+Los Angeles,NY,96529,369
+Los Angeles,TX,19798,370
+San Francisco,NY,74420,371
+Los Angeles,IL,40585,372
+San Francisco,IL,66688,373
+San Diego,TX,82734,374
+Fresno,IL,19237,375
+Sacramento,CA,94325,376
+Fresno,CA,36357,377
+Sacramento,CA,50594,378
+Fresno,NY,31004,379
+Los Angeles,IL,87661,380
+Sacramento,CA,34902,381
+Sacramento,CA,80939,382
+Los Angeles,CA,76331,383
+San Diego,IL,85196,384
+Fresno,IL,22458,385
+San Diego,CA,55545,386
+Los Angeles,TX,35979,387
+Fresno,TX,91504,388
+Sacramento,TX,39898,389
+Fresno,NY,57838,390
+Los Angeles,CA,55207,391
+Fresno,IL,76431,392
+San Francisco,TX,47035,393
+Sacramento,CA,80455,394
+Los Angeles,FL,66368,395
+San Francisco,NY,36428,396
+San Diego,NY,40382,397
+Fresno,NY,51917,398
+Fresno,CA,94337,399
+Fresno,TX,98894,400
+San Francisco,CA,74845,401
+San Francisco,NY,77717,402
+San Francisco,CA,45435,403
+Fresno,NY,40049,404
+San Francisco,NY,21095,405
+Los Angeles,NY,37962,406
+Los Angeles,IL,24534,407
+Fresno,IL,44519,408
+San Diego,NY,54416,409
+Sacramento,IL,76996,410
+Sacramento,CA,86858,411
+Fresno,CA,60679,412
+Los Angeles,NY,79617,413
+Sacramento,CA,63418,414
+Fresno,IL,87610,415
+San Diego,CA,16283,416
+Los Angeles,CA,79047,417
+Sacramento,FL,75930,418
+San Francisco,IL,36162,419
+San Diego,CA,99323,420
+San Francisco,CA,82910,421
+San Diego,FL,65593,422
+Sacramento,FL,18285,423
+San Francisco,NY,67839,424
+San Francisco,TX,59594,425
+Sacramento,CA,23393,426
+Sacramento,IL,76728,427
+San Francisco,TX,20376,428
+Fresno,CA,59040,429
+Los Angeles,NY,21826,430
+Sacramento,CA,52402,431
+Fresno,CA,75286,432
+Fresno,NY,83599,433
+San Diego,NY,15718,434
+Fresno,FL,35524,435
+Sacramento,FL,85118,436
+Sacramento,NY,45772,437
+San Francisco,CA,75282,438
+San Diego,IL,31572,439
+Los Angeles,IL,26523,440
+Sacramento,IL,84551,441
+Sacramento,IL,51763,442
+Fresno,IL,33457,443
+Sacramento,TX,36438,444
+San Francisco,FL,97647,445
+Los Angeles,TX,85311,446
+San Diego,IL,21852,447
+Fresno,TX,86690,448
+Sacramento,CA,20349,449
+Los Angeles,NY,97824,450
+Fresno,NY,48074,451
+Fresno,TX,19420,452
+San Diego,CA,19935,453
+Fresno,FL,61586,454
+Sacramento,NY,34517,455
+Fresno,IL,33023,456
+Sacramento,FL,80702,457
+San Diego,NY,26771,458
+Los Angeles,TX,23438,459
+Los Angeles,FL,29161,460
+Fresno,FL,45418,461
+Fresno,FL,18979,462
+Los Angeles,IL,96388,463
+Los Angeles,CA,68265,464
+San Diego,FL,52635,465
+San Francisco,TX,77562,466
+Los Angeles,NY,42337,467
+Los Angeles,CA,41713,468
+San Diego,NY,16656,469
+Los Angeles,FL,49604,470
+Fresno,FL,18615,471
+Fresno,TX,23436,472
+San Francisco,IL,56080,473
+Los Angeles,CA,35544,474
+San Diego,TX,29803,475
+San Francisco,IL,11210,476
+Los Angeles,FL,50766,477
+Los Angeles,TX,94827,478
+San Francisco,IL,89195,479
+San Diego,NY,48115,480
+Los Angeles,NY,99183,481
+Los Angeles,IL,28501,482
+Los Angeles,TX,95821,483
+San Francisco,NY,35045,484
+San Diego,IL,94919,485
+San Francisco,FL,20373,486
+Sacramento,IL,82995,487
+Sacramento,NY,58019,488
+San Francisco,FL,47018,489
+Los Angeles,TX,44250,490
+San Diego,TX,40066,491
+Sacramento,TX,67883,492
+Los Angeles,FL,88335,493
+San Francisco,TX,77567,494
+San Diego,NY,65461,495
+San Diego,FL,93955,496
+Los Angeles,NY,17410,497
+Fresno,CA,79211,498
+Fresno,IL,86928,499
+Sacramento,NY,53607,500
+San Francisco,NY,10311,501
+San Diego,CA,32173,502
+San Diego,FL,27832,503
+Sacramento,NY,31075,504
+Sacramento,FL,27470,505
+San Francisco,FL,68868,506
+Los Angeles,TX,23693,507
+Sacramento,TX,72738,508
+Los Angeles,FL,80412,509
+Sacramento,NY,32115,510
+Fresno,IL,22793,511
+San Diego,IL,56888,512
+San Diego,IL,94192,513
+San Francisco,CA,45081,514
+San Diego,TX,28105,515
+Los Angeles,TX,67939,516
+San Diego,CA,35797,517
+Los Angeles,IL,51679,518
+Fresno,IL,54206,519
+San Francisco,TX,39812,520
+Los Angeles,CA,61780,521
+Fresno,TX,49179,522
+San Diego,IL,74415,523
+Los Angeles,CA,55480,524
+Sacramento,CA,65418,525
+Fresno,CA,67436,526
+Fresno,CA,46082,527
+Sacramento,IL,65996,528
+San Francisco,TX,47810,529
+Los Angeles,IL,25777,530
+Los Angeles,NY,58433,531
+Fresno,FL,14495,532
+San Diego,NY,61026,533
+San Diego,TX,43557,534
+Fresno,TX,77679,535
+Fresno,NY,31166,536
+Los Angeles,IL,37339,537
+San Francisco,IL,14212,538
+Los Angeles,IL,35378,539
+Los Angeles,NY,87488,540
+San Diego,FL,55567,541
+San Francisco,IL,88302,542
+Fresno,TX,64477,543
+Sacramento,NY,14685,544
+Los Angeles,IL,18152,545
+Sacramento,TX,73267,546
+Sacramento,NY,82661,547
+San Francisco,CA,93635,548
+San Francisco,IL,78415,549
+San Diego,TX,59583,550
+San Diego,NY,29719,551
+San Diego,TX,78275,552
+Sacramento,TX,78040,553
+Fresno,IL,65847,554
+Sacramento,CA,93094,555
+San Diego,IL,41680,556
+Sacramento,IL,10818,557
+Sacramento,NY,55808,558
+Sacramento,IL,36098,559
+Fresno,FL,27071,560
+San Diego,CA,43152,561
+Fresno,FL,40098,562
+San Diego,CA,96391,563
+San Diego,NY,90523,564
+San Francisco,NY,51332,565
+San Francisco,NY,20764,566
+San Diego,NY,92972,567
+San Diego,FL,75163,568
+San Francisco,NY,29586,569
+Los Angeles,CA,45798,570
+Los Angeles,FL,83126,571
+San Diego,FL,74857,572
+San Diego,NY,80154,573
+San Francisco,TX,64532,574
+Fresno,CA,48994,575
+Los Angeles,FL,55444,576
+Sacramento,CA,30347,577
+Fresno,CA,96549,578
+Los Angeles,IL,74523,579
+Fresno,CA,17671,580
+San Diego,NY,23507,581
+San Diego,IL,46749,582
+Los Angeles,FL,81900,583
+Fresno,IL,62223,584
+San Diego,FL,11664,585
+Los Angeles,FL,26355,586
+Los Angeles,CA,27317,587
+Sacramento,TX,52052,588
+San Diego,FL,66605,589
+Los Angeles,CA,90177,590
+Fresno,NY,28842,591
+San Diego,CA,63599,592
+Los Angeles,IL,81824,593
+San Francisco,NY,74633,594
+Sacramento,IL,87520,595
+San Francisco,FL,45648,596
+San Francisco,IL,52454,597
+Los Angeles,TX,66135,598
+Fresno,IL,17323,599
+San Diego,FL,29464,600
+San Francisco,CA,80206,601
+Sacramento,NY,64621,602
+Sacramento,IL,63439,603
+San Diego,NY,62811,604
+Sacramento,CA,91105,605
+Los Angeles,FL,32641,606
+San Diego,FL,77805,607
+San Diego,TX,82273,608
+Sacramento,CA,98214,609
+Los Angeles,TX,45468,610
+San Diego,TX,81784,611
+Fresno,IL,28975,612
+Los Angeles,FL,66826,613
+Sacramento,TX,19962,614
+Fresno,NY,94352,615
+San Diego,CA,50347,616
+Sacramento,TX,28407,617
+Los Angeles,NY,92569,618
+San Diego,NY,28635,619
+Sacramento,IL,93261,620
+Fresno,CA,23730,621
+San Diego,CA,99094,622
+Los Angeles,TX,13830,623
+San Francisco,CA,82969,624
+San Diego,NY,18244,625
+San Diego,FL,55155,626
+Los Angeles,TX,70939,627
+San Francisco,TX,63514,628
+Sacramento,CA,78721,629
+San Francisco,CA,47337,630
+Sacramento,IL,27185,631
+San Diego,TX,63053,632
+Fresno,FL,57967,633
+San Francisco,FL,45469,634
+Los Angeles,FL,38082,635
+San Francisco,FL,34230,636
+Sacramento,IL,72726,637
+Los Angeles,NY,71424,638
+Los Angeles,NY,81291,639
+San Diego,CA,36666,640
+San Diego,FL,20161,641
+Los Angeles,FL,40426,642
+Sacramento,TX,19836,643
+Fresno,IL,19254,644
+Los Angeles,TX,68561,645
+San Diego,NY,47970,646
+Los Angeles,FL,69780,647
+San Francisco,CA,38092,648
+Fresno,TX,22024,649
+Los Angeles,CA,18709,650
+Fresno,FL,13983,651
+Los Angeles,NY,42449,652
+San Francisco,IL,19527,653
+Sacramento,IL,58984,654
+San Diego,CA,75125,655
+Sacramento,CA,89405,656
+Fresno,CA,29174,657
+Los Angeles,IL,61754,658
+Fresno,IL,14836,659
+San Francisco,TX,40195,660
+Los Angeles,CA,77333,661
+Sacramento,CA,19709,662
+Fresno,IL,17428,663
+Los Angeles,IL,78631,664
+Sacramento,IL,15377,665
+Fresno,FL,74354,666
+San Francisco,IL,32018,667
+Sacramento,CA,31318,668
+Sacramento,CA,80409,669
+Fresno,IL,47098,670
+San Francisco,CA,18857,671
+Sacramento,NY,93308,672
+San Francisco,TX,66275,673
+San Diego,TX,76029,674
+Los Angeles,IL,83251,675
+San Francisco,CA,63073,676
+Sacramento,TX,37843,677
+Sacramento,FL,98024,678
+San Diego,IL,77634,679
+San Diego,TX,87315,680
+Fresno,FL,20603,681
+Sacramento,TX,63240,682
+San Francisco,IL,89641,683
+Sacramento,TX,76866,684
+Sacramento,IL,77255,685
+Sacramento,CA,80756,686
+Los Angeles,CA,94803,687
+Sacramento,FL,64762,688
+Los Angeles,TX,68715,689
+Fresno,FL,90168,690
+San Francisco,FL,30227,691
+San Francisco,IL,18441,692
+Sacramento,CA,44806,693
+Sacramento,TX,13361,694
+Sacramento,NY,42661,695
+San Diego,CA,59147,696
+San Francisco,IL,29994,697
+Fresno,IL,30310,698
+Sacramento,NY,14389,699
+San Diego,TX,57376,700
+San Francisco,CA,17048,701
+Sacramento,FL,19411,702
+Sacramento,NY,59105,703
+San Francisco,NY,69662,704
+Sacramento,IL,36242,705
+San Diego,IL,43942,706
+Sacramento,NY,90940,707
+Sacramento,CA,23919,708
+San Diego,IL,10463,709
+San Francisco,FL,45720,710
+Los Angeles,IL,28141,711
+Los Angeles,CA,46051,712
+San Diego,TX,45263,713
+San Francisco,IL,90781,714
+Fresno,NY,39961,715
+San Francisco,IL,41315,716
+Fresno,NY,88240,717
+Sacramento,IL,10497,718
+San Diego,IL,93193,719
+San Francisco,CA,35930,720
+San Diego,NY,77374,721
+Sacramento,TX,45005,722
+Sacramento,IL,43472,723
+San Diego,IL,96400,724
+Fresno,CA,95888,725
+Los Angeles,CA,19472,726
+Fresno,TX,23802,727
+Los Angeles,IL,24009,728
+Los Angeles,CA,88307,729
+Sacramento,CA,35214,730
+Sacramento,IL,11286,731
+Fresno,IL,73207,732
+Los Angeles,CA,46396,733
+Fresno,TX,93235,734
+Sacramento,IL,54020,735
+Sacramento,TX,62655,736
+San Francisco,CA,15264,737
+San Francisco,TX,41053,738
+San Diego,TX,54870,739
+San Diego,IL,24302,740
+Los Angeles,CA,28809,741
+Los Angeles,NY,73989,742
+San Francisco,CA,27882,743
+San Diego,TX,24734,744
+San Diego,NY,58737,745
+San Diego,CA,88255,746
+Sacramento,FL,53113,747
+Los Angeles,FL,79319,748
+Fresno,TX,46647,749
+San Diego,FL,88560,750
+Los Angeles,IL,10506,751
+San Diego,TX,89557,752
+Fresno,IL,88151,753
+Sacramento,CA,57436,754
+Sacramento,TX,67537,755
+San Diego,FL,23637,756
+San Francisco,FL,27396,757
+San Diego,FL,48584,758
+Sacramento,CA,77410,759
+San Diego,CA,25867,760
+Los Angeles,IL,75253,761
+Los Angeles,CA,83724,762
+San Francisco,TX,11432,763
+San Diego,FL,80722,764
+San Francisco,IL,71524,765
+San Diego,IL,98236,766
+Los Angeles,TX,89919,767
+San Diego,NY,65564,768
+San Diego,IL,46273,769
+San Diego,FL,77457,770
+Sacramento,CA,47736,771
+San Diego,TX,33841,772
+San Francisco,IL,89187,773
+Los Angeles,IL,58462,774
+Los Angeles,NY,61679,775
+Sacramento,TX,33285,776
+Sacramento,FL,45702,777
+Los Angeles,IL,90010,778
+Fresno,IL,92296,779
+Fresno,IL,66275,780
+Los Angeles,IL,23668,781
+Sacramento,FL,38562,782
+San Francisco,TX,26396,783
+Fresno,TX,72494,784
+San Diego,FL,54933,785
+Los Angeles,IL,28325,786
+San Diego,IL,86353,787
+Sacramento,TX,26044,788
+San Francisco,IL,55615,789
+Fresno,NY,68184,790
+Fresno,IL,55782,791
+Fresno,NY,67573,792
+Los Angeles,FL,66115,793
+San Francisco,NY,62932,794
+San Diego,TX,42286,795
+Los Angeles,IL,93603,796
+San Francisco,NY,78415,797
+Fresno,IL,40814,798
+San Francisco,IL,98362,799
+Sacramento,TX,97031,800
+San Diego,IL,70965,801
+Los Angeles,NY,57579,802
+San Diego,CA,12729,803
+San Diego,FL,75919,804
+San Francisco,IL,24923,805
+Sacramento,NY,88614,806
+Fresno,TX,66654,807
+Fresno,IL,30523,808
+Sacramento,TX,14892,809
+Sacramento,CA,12477,810
+Sacramento,IL,52311,811
+Fresno,CA,94175,812
+Sacramento,TX,78963,813
+Sacramento,IL,99538,814
+San Francisco,NY,65918,815
+San Diego,IL,20679,816
+San Francisco,TX,14339,817
+Fresno,CA,56423,818
+Sacramento,FL,64089,819
+San Francisco,FL,34766,820
+San Diego,IL,99507,821
+Los Angeles,NY,39530,822
+Los Angeles,FL,50916,823
+San Francisco,CA,71130,824
+San Diego,CA,38257,825
+Los Angeles,CA,14062,826
+Fresno,CA,16271,827
+Los Angeles,TX,48570,828
+San Francisco,IL,84319,829
+San Diego,TX,21216,830
+Los Angeles,TX,95808,831
+Fresno,CA,46537,832
+San Francisco,TX,81827,833
+San Diego,NY,23226,834
+San Diego,CA,23788,835
+San Francisco,FL,98527,836
+Los Angeles,IL,85529,837
+Fresno,IL,98387,838
+Los Angeles,TX,97828,839
+San Francisco,CA,67577,840
+Los Angeles,NY,82462,841
+Los Angeles,IL,77037,842
+Fresno,IL,11818,843
+Sacramento,FL,85987,844
+San Francisco,CA,77179,845
+Sacramento,IL,54113,846
+Fresno,CA,59919,847
+San Francisco,IL,23613,848
+San Diego,FL,42387,849
+San Francisco,NY,57518,850
+Fresno,FL,97626,851
+Los Angeles,FL,79826,852
+Sacramento,NY,64861,853
+San Francisco,IL,87473,854
+Fresno,TX,95641,855
+Los Angeles,TX,70928,856
+Sacramento,FL,15604,857
+Sacramento,IL,79757,858
+San Francisco,IL,95098,859
+San Diego,CA,20368,860
+Los Angeles,TX,54147,861
+Fresno,IL,94609,862
+San Francisco,IL,24763,863
+San Francisco,IL,67802,864
+Los Angeles,NY,45498,865
+Fresno,NY,30014,866
+San Francisco,FL,48593,867
+San Francisco,CA,31544,868
+Los Angeles,NY,37866,869
+Sacramento,FL,62476,870
+Fresno,TX,18870,871
+San Francisco,FL,79165,872
+San Diego,CA,26898,873
+Fresno,TX,99103,874
+San Diego,FL,99061,875
+Sacramento,TX,25588,876
+Fresno,TX,19350,877
+San Diego,FL,70380,878
+San Francisco,NY,67259,879
+Fresno,FL,64153,880
+Los Angeles,FL,99705,881
+Los Angeles,IL,81064,882
+Fresno,CA,92928,883
+San Francisco,FL,18188,884
+Los Angeles,IL,48336,885
+San Francisco,IL,98522,886
+Los Angeles,CA,86828,887
+Fresno,TX,23788,888
+Sacramento,FL,67032,889
+Fresno,CA,85195,890
+San Francisco,FL,89824,891
+San Diego,TX,63159,892
+Los Angeles,FL,72459,893
+Sacramento,FL,10339,894
+Sacramento,IL,63572,895
+Sacramento,NY,75749,896
+Sacramento,CA,56410,897
+San Francisco,FL,37583,898
+Fresno,IL,41056,899
+San Diego,NY,42349,900
+Sacramento,FL,75688,901
+Sacramento,NY,21619,902
+Los Angeles,TX,83680,903
+Fresno,IL,91496,904
+Sacramento,TX,26360,905
+Sacramento,TX,48702,906
+Sacramento,CA,79263,907
+Sacramento,FL,39844,908
+Fresno,IL,74744,909
+San Francisco,FL,30748,910
+San Francisco,CA,82706,911
+Los Angeles,CA,81173,912
+Los Angeles,FL,25628,913
+San Francisco,FL,97889,914
+San Francisco,NY,21240,915
+Los Angeles,TX,10643,916
+San Francisco,FL,33359,917
+Los Angeles,TX,55662,918
+Sacramento,IL,36680,919
+San Francisco,IL,89169,920
+Sacramento,CA,59994,921
+San Diego,CA,62437,922
+San Diego,TX,50148,923
+Sacramento,NY,12730,924
+Los Angeles,NY,77020,925
+Fresno,CA,90922,926
+Los Angeles,IL,57711,927
+Sacramento,CA,16674,928
+Fresno,FL,87430,929
+San Francisco,FL,23506,930
+San Diego,TX,18919,931
+Fresno,CA,54345,932
+San Francisco,CA,29378,933
+San Francisco,CA,63040,934
+Fresno,NY,76056,935
+San Diego,IL,60385,936
+Los Angeles,TX,67231,937
+Fresno,IL,82044,938
+San Diego,NY,36444,939
+Fresno,TX,86778,940
+Sacramento,FL,77412,941
+San Francisco,TX,66809,942
+Sacramento,FL,33151,943
+San Diego,IL,73609,944
+San Francisco,IL,60168,945
+Los Angeles,FL,61336,946
+San Francisco,CA,39601,947
+Fresno,TX,48991,948
+Sacramento,FL,37559,949
+Los Angeles,CA,38914,950
+Los Angeles,TX,77726,951
+San Francisco,TX,98081,952
+San Francisco,CA,90885,953
+Sacramento,CA,74884,954
+Fresno,FL,50573,955
+Fresno,IL,83560,956
+Fresno,IL,14760,957
+Sacramento,CA,48361,958
+San Francisco,TX,91508,959
+Los Angeles,CA,86267,960
+San Diego,FL,68218,961
+San Diego,TX,89720,962
+Sacramento,FL,29123,963
+Fresno,IL,64765,964
+Fresno,FL,97242,965
+San Diego,IL,92096,966
+San Diego,CA,79289,967
+Los Angeles,NY,28489,968
+San Francisco,NY,73849,969
+San Francisco,NY,95184,970
+San Diego,TX,35467,971
+Los Angeles,FL,35889,972
+Fresno,TX,34761,973
+San Francisco,NY,83659,974
+San Diego,IL,91142,975
+Sacramento,TX,20887,976
+San Diego,IL,29137,977
+Sacramento,NY,20598,978
+Sacramento,IL,34382,979
+Fresno,NY,44244,980
+Fresno,CA,14788,981
+Fresno,TX,72173,982
+Los Angeles,FL,56574,983
+San Francisco,TX,88715,984
+Fresno,FL,52199,985
+Los Angeles,TX,35944,986
+San Diego,NY,55913,987
+Fresno,CA,14363,988
+San Francisco,FL,88144,989
+Sacramento,FL,14393,990
+San Francisco,NY,29858,991
+Sacramento,FL,44381,992
+San Diego,CA,60005,993
+San Francisco,FL,31365,994
+Sacramento,NY,92999,995
+San Francisco,FL,46034,996
+San Diego,IL,18529,997
+San Diego,NY,44148,998
+Los Angeles,FL,87490,999
+Los Angeles,TX,30384,1000
+Sacramento,FL,49761,1001
+Sacramento,CA,91575,1002
+San Francisco,FL,20811,1003
+Fresno,FL,32293,1004
+Fresno,TX,90863,1005
+Sacramento,TX,57079,1006
+San Diego,NY,81853,1007
+Los Angeles,IL,24663,1008
+Los Angeles,CA,88380,1009
+San Francisco,CA,98355,1010
+Sacramento,CA,65167,1011
+Los Angeles,NY,38616,1012
+San Diego,TX,74545,1013
+Fresno,FL,51510,1014
+San Francisco,CA,13718,1015
+Sacramento,NY,21680,1016
+Sacramento,IL,78010,1017
+Fresno,TX,95683,1018
+San Diego,IL,97210,1019
+Fresno,TX,74963,1020
+Fresno,TX,32550,1021
+Fresno,TX,89787,1022
+San Francisco,FL,50174,1023
+Fresno,CA,63203,1024
+Fresno,TX,57526,1025
+Fresno,IL,75019,1026
+Fresno,FL,97237,1027
+San Diego,CA,29109,1028
+San Francisco,NY,22219,1029
+Fresno,NY,63752,1030
+San Francisco,NY,99931,1031
+San Francisco,TX,88211,1032
+Los Angeles,FL,70285,1033
+Sacramento,CA,49161,1034
+Fresno,TX,99270,1035
+San Diego,FL,17110,1036
+Los Angeles,NY,52450,1037
+Sacramento,NY,90015,1038
+Los Angeles,FL,77649,1039
+San Diego,NY,47469,1040
+San Francisco,IL,38263,1041
+San Francisco,TX,99845,1042
+San Francisco,TX,42599,1043
+Sacramento,CA,90056,1044
+Fresno,TX,38332,1045
+San Diego,FL,21488,1046
+San Francisco,FL,47349,1047
+Los Angeles,IL,73115,1048
+Fresno,FL,74946,1049
+San Diego,FL,62025,1050
+San Diego,IL,25704,1051
+San Francisco,TX,88279,1052
+Sacramento,TX,72578,1053
+San Diego,FL,71044,1054
+San Diego,IL,81110,1055
+San Francisco,IL,42781,1056
+Sacramento,NY,82732,1057
+San Francisco,TX,56312,1058
+Sacramento,FL,59720,1059
+San Diego,TX,49598,1060
+Fresno,IL,50971,1061
+Los Angeles,FL,80765,1062
+San Diego,NY,57171,1063
+Sacramento,CA,49084,1064
+San Diego,TX,21055,1065
+Los Angeles,TX,67428,1066
+San Francisco,IL,48114,1067
+San Diego,CA,63771,1068
+Los Angeles,TX,38900,1069
+San Francisco,CA,25446,1070
+San Diego,NY,29956,1071
+San Francisco,FL,49247,1072
+Sacramento,IL,95685,1073
+Los Angeles,FL,73692,1074
+San Diego,TX,46347,1075
+Fresno,IL,81291,1076
+Sacramento,FL,48149,1077
+Fresno,CA,48618,1078
+Los Angeles,CA,51028,1079
+San Diego,FL,33055,1080
+San Francisco,FL,20542,1081
+Sacramento,NY,51883,1082
+Los Angeles,IL,69649,1083
+Sacramento,NY,26310,1084
+San Diego,NY,87696,1085
+Sacramento,NY,68739,1086
+Sacramento,TX,19818,1087
+San Francisco,CA,14016,1088
+San Diego,IL,57110,1089
+San Francisco,CA,67146,1090
+San Diego,CA,37975,1091
+Fresno,CA,18290,1092
+Los Angeles,FL,16548,1093
+Los Angeles,CA,30666,1094
+Sacramento,NY,58922,1095
+San Diego,NY,96253,1096
+San Francisco,FL,51463,1097
+Sacramento,FL,84864,1098
+San Francisco,NY,57762,1099
+Sacramento,CA,72473,1100
+San Francisco,TX,95757,1101
+San Francisco,TX,33840,1102
+Fresno,FL,41971,1103
+San Diego,TX,56900,1104
+San Francisco,CA,24929,1105
+Fresno,NY,89639,1106
+San Francisco,TX,38448,1107
+San Diego,CA,62075,1108
+Los Angeles,CA,29846,1109
+San Francisco,NY,15184,1110
+San Diego,FL,20551,1111
+Fresno,IL,97417,1112
+Fresno,NY,15369,1113
+Los Angeles,NY,60214,1114
+Fresno,TX,32159,1115
+Sacramento,IL,99365,1116
+Fresno,TX,98952,1117
+San Francisco,NY,53920,1118
+Los Angeles,TX,76014,1119
+Los Angeles,IL,45807,1120
+Los Angeles,CA,68651,1121
+San Francisco,TX,62739,1122
+San Francisco,CA,27780,1123
+San Diego,IL,16773,1124
+San Diego,FL,75584,1125
+San Francisco,FL,58344,1126
+San Francisco,IL,41891,1127
+Sacramento,FL,59337,1128
+San Francisco,CA,52483,1129
+Los Angeles,NY,26644,1130
+Sacramento,NY,89113,1131
+Los Angeles,FL,68674,1132
+San Francisco,NY,51861,1133
+Los Angeles,FL,67671,1134
+Sacramento,IL,38964,1135
+Fresno,CA,79516,1136
+Sacramento,CA,71953,1137
+San Francisco,NY,95520,1138
+Fresno,FL,25830,1139
+San Diego,CA,40512,1140
+Los Angeles,FL,70874,1141
+Los Angeles,TX,58442,1142
+San Francisco,TX,59016,1143
+Fresno,IL,32190,1144
+Sacramento,IL,43817,1145
+San Francisco,CA,22221,1146
+Sacramento,TX,37285,1147
+Fresno,NY,99255,1148
+Sacramento,CA,28441,1149
+San Francisco,IL,23068,1150
+Fresno,FL,67919,1151
+Sacramento,NY,65991,1152
+Los Angeles,CA,14297,1153
+San Francisco,IL,74800,1154
+San Diego,CA,25023,1155
+San Diego,NY,66128,1156
+Sacramento,NY,50616,1157
+Fresno,FL,58387,1158
+Sacramento,FL,65559,1159
+Fresno,TX,59560,1160
+Fresno,TX,16001,1161
+Los Angeles,FL,80681,1162
+San Diego,CA,69699,1163
+Sacramento,CA,88829,1164
+Fresno,IL,60647,1165
+Sacramento,IL,67091,1166
+Fresno,NY,24152,1167
+San Francisco,FL,39241,1168
+Sacramento,NY,19745,1169
+San Diego,NY,50124,1170
+Los Angeles,CA,47813,1171
+San Diego,TX,54247,1172
+Fresno,IL,82261,1173
+Fresno,TX,63625,1174
+San Francisco,CA,21874,1175
+Fresno,FL,45184,1176
+Fresno,NY,72733,1177
+San Diego,CA,96362,1178
+San Diego,TX,74145,1179
+San Diego,NY,58360,1180
+Fresno,TX,74293,1181
+Los Angeles,IL,29741,1182
+San Francisco,FL,25426,1183
+Los Angeles,IL,16334,1184
+Fresno,CA,19834,1185
+San Francisco,IL,71889,1186
+Fresno,IL,60086,1187
+San Francisco,IL,75736,1188
+Fresno,FL,85937,1189
+Sacramento,IL,85924,1190
+San Francisco,FL,41242,1191
+Sacramento,NY,67799,1192
+Sacramento,IL,52732,1193
+Sacramento,NY,50751,1194
+Fresno,TX,66852,1195
+Fresno,CA,29272,1196
+San Diego,NY,49959,1197
+Sacramento,TX,56352,1198
+Los Angeles,FL,37005,1199
+San Diego,CA,29634,1200
+San Francisco,IL,37723,1201
+San Francisco,CA,87325,1202
+San Francisco,CA,67365,1203
+San Francisco,CA,21339,1204
+Sacramento,CA,89824,1205
+San Francisco,TX,94071,1206
+Los Angeles,TX,88040,1207
+San Francisco,FL,44455,1208
+Sacramento,FL,36145,1209
+San Francisco,IL,25480,1210
+San Diego,CA,47577,1211
+Sacramento,FL,44730,1212
+San Diego,IL,39821,1213
+Fresno,CA,36258,1214
+Fresno,CA,15309,1215
+Fresno,CA,13545,1216
+San Francisco,CA,34436,1217
+San Francisco,FL,37026,1218
+Sacramento,FL,48832,1219
+Sacramento,IL,86185,1220
+San Francisco,FL,75048,1221
+San Francisco,IL,97697,1222
+Sacramento,IL,75834,1223
+San Francisco,IL,34478,1224
+Los Angeles,NY,78574,1225
+Los Angeles,IL,30794,1226
+Los Angeles,CA,52810,1227
+Sacramento,NY,66309,1228
+Sacramento,CA,77872,1229
+Sacramento,CA,17616,1230
+San Francisco,FL,23087,1231
+San Francisco,NY,39549,1232
+Sacramento,IL,55091,1233
+Sacramento,CA,27772,1234
+Sacramento,TX,92924,1235
+Los Angeles,NY,58518,1236
+San Diego,IL,25303,1237
+San Diego,IL,86063,1238
+Fresno,TX,49505,1239
+Sacramento,CA,87798,1240
+Fresno,TX,76958,1241
+Fresno,NY,19807,1242
+San Diego,CA,27529,1243
+Sacramento,TX,10143,1244
+Fresno,IL,64747,1245
+San Diego,TX,19844,1246
+Los Angeles,NY,79505,1247
+Fresno,CA,45750,1248
+San Francisco,IL,62457,1249
+Sacramento,NY,13849,1250
+Sacramento,CA,47203,1251
+San Diego,NY,89347,1252
+San Francisco,IL,55163,1253
+Los Angeles,NY,71350,1254
+Fresno,CA,57242,1255
+San Francisco,TX,79190,1256
+Fresno,CA,96383,1257
+San Francisco,FL,86638,1258
+San Francisco,NY,16939,1259
+San Diego,IL,89598,1260
+Los Angeles,IL,64628,1261
+San Francisco,FL,30160,1262
+San Francisco,TX,99211,1263
+Los Angeles,IL,62062,1264
+Los Angeles,FL,10006,1265
+San Francisco,TX,37948,1266
+Fresno,CA,13171,1267
+Los Angeles,TX,89851,1268
+Fresno,IL,73698,1269
+Los Angeles,NY,40283,1270
+Sacramento,FL,81388,1271
+Fresno,NY,52083,1272
+San Francisco,NY,85201,1273
+Los Angeles,TX,42451,1274
+Los Angeles,TX,88679,1275
+San Francisco,FL,16383,1276
+San Diego,FL,64880,1277
+Los Angeles,FL,97402,1278
+Fresno,TX,71928,1279
+San Francisco,NY,98928,1280
+Sacramento,NY,28013,1281
+Los Angeles,NY,14973,1282
+Fresno,TX,46047,1283
+San Diego,NY,80624,1284
+Sacramento,TX,60812,1285
+Los Angeles,FL,65847,1286
+Los Angeles,IL,67572,1287
+Sacramento,IL,19739,1288
+Los Angeles,IL,15876,1289
+San Francisco,CA,65506,1290
+Fresno,FL,17784,1291
+San Diego,CA,49271,1292
+Sacramento,NY,48167,1293
+San Francisco,NY,53010,1294
+Fresno,TX,87814,1295
+Los Angeles,IL,11524,1296
+San Francisco,IL,48164,1297
+Fresno,TX,85253,1298
+Fresno,FL,72813,1299
+San Francisco,IL,40966,1300
+San Francisco,NY,88991,1301
+Sacramento,NY,46838,1302
+Fresno,TX,65816,1303
+Los Angeles,IL,23918,1304
+Los Angeles,IL,82076,1305
+Los Angeles,TX,14373,1306
+Fresno,IL,96198,1307
+San Diego,NY,49755,1308
+Fresno,FL,59956,1309
+Los Angeles,TX,33637,1310
+Sacramento,NY,62358,1311
+Los Angeles,TX,73560,1312
+San Francisco,NY,17440,1313
+Fresno,IL,11996,1314
+San Francisco,IL,13587,1315
+Los Angeles,IL,95216,1316
+San Francisco,NY,43522,1317
+San Francisco,TX,21785,1318
+Sacramento,NY,36100,1319
+Sacramento,FL,65482,1320
+Sacramento,TX,51936,1321
+San Francisco,IL,21798,1322
+Sacramento,CA,99327,1323
+San Francisco,NY,87961,1324
+Sacramento,NY,39459,1325
+San Diego,FL,94807,1326
+San Francisco,TX,74937,1327
+Sacramento,TX,71653,1328
+Los Angeles,CA,72442,1329
+Fresno,CA,72484,1330
+San Francisco,TX,59250,1331
+Los Angeles,NY,85533,1332
+Los Angeles,IL,11630,1333
+Fresno,CA,72047,1334
+San Francisco,CA,96180,1335
+Los Angeles,FL,75773,1336
+San Francisco,NY,83852,1337
+Fresno,CA,37195,1338
+San Francisco,IL,62250,1339
+Los Angeles,FL,58871,1340
+Sacramento,FL,87611,1341
+Sacramento,CA,43034,1342
+Sacramento,FL,64106,1343
+Sacramento,NY,14444,1344
+San Francisco,TX,44997,1345
+San Francisco,CA,64978,1346
+San Francisco,FL,88554,1347
+Sacramento,IL,92223,1348
+Los Angeles,NY,39637,1349
+San Diego,TX,49528,1350
+San Diego,FL,14744,1351
+Fresno,NY,84456,1352
+Los Angeles,IL,84948,1353
+Sacramento,TX,34535,1354
+Sacramento,IL,74353,1355
+Sacramento,IL,44554,1356
+San Diego,CA,37330,1357
+Los Angeles,NY,25727,1358
+San Diego,CA,77829,1359
+Sacramento,FL,96815,1360
+San Diego,CA,43982,1361
+Sacramento,IL,57281,1362
+San Francisco,FL,63545,1363
+Fresno,TX,20382,1364
+San Diego,TX,98979,1365
+Sacramento,TX,70724,1366
+San Diego,IL,32794,1367
+San Diego,FL,91896,1368
+Fresno,NY,16603,1369
+San Diego,CA,11546,1370
+Fresno,CA,23854,1371
+Fresno,FL,34652,1372
+Los Angeles,CA,74325,1373
+Sacramento,NY,10634,1374
+San Diego,FL,96555,1375
+San Francisco,CA,38222,1376
+Los Angeles,TX,21034,1377
+Sacramento,CA,81544,1378
+San Francisco,NY,80401,1379
+Los Angeles,FL,19196,1380
+Sacramento,TX,95536,1381
+San Diego,IL,90961,1382
+San Diego,NY,56099,1383
+San Diego,IL,97907,1384
+San Francisco,FL,12051,1385
+San Francisco,NY,17955,1386
+Los Angeles,IL,49084,1387
+San Diego,NY,81454,1388
+San Diego,FL,73076,1389
+Los Angeles,NY,71720,1390
+Sacramento,IL,46598,1391
+Fresno,CA,42023,1392
+Los Angeles,IL,73076,1393
+Los Angeles,IL,83705,1394
+Sacramento,IL,63825,1395
+San Diego,IL,51725,1396
+Los Angeles,NY,31656,1397
+Sacramento,TX,40452,1398
+San Diego,TX,69638,1399
+Los Angeles,CA,85976,1400
+San Francisco,NY,15650,1401
+San Francisco,CA,48296,1402
+Fresno,CA,32435,1403
+Los Angeles,IL,83851,1404
+Los Angeles,NY,46718,1405
+San Diego,NY,37003,1406
+Sacramento,NY,14781,1407
+San Diego,CA,33178,1408
+Los Angeles,NY,21112,1409
+Sacramento,CA,73257,1410
+San Diego,TX,41457,1411
+Los Angeles,TX,67605,1412
+San Francisco,CA,46426,1413
+Los Angeles,CA,10094,1414
+San Francisco,NY,56441,1415
+Fresno,FL,80142,1416
+San Diego,NY,85892,1417
+Fresno,NY,91466,1418
+Sacramento,FL,97181,1419
+San Diego,TX,33686,1420
+Sacramento,IL,91469,1421
+Los Angeles,CA,78693,1422
+Fresno,TX,48351,1423
+Los Angeles,CA,39917,1424
+Fresno,TX,41512,1425
+Fresno,IL,63614,1426
+Fresno,NY,73090,1427
+San Francisco,IL,33337,1428
+San Diego,TX,49965,1429
+Fresno,FL,95831,1430
+San Francisco,NY,93937,1431
+Fresno,NY,78072,1432
+Fresno,FL,46716,1433
+Los Angeles,CA,88468,1434
+San Francisco,IL,33913,1435
+San Francisco,TX,38037,1436
+Sacramento,CA,23444,1437
+Sacramento,NY,75342,1438
+Fresno,FL,97893,1439
+Sacramento,NY,60800,1440
+Los Angeles,TX,98485,1441
+San Francisco,TX,79458,1442
+Sacramento,TX,53695,1443
+San Francisco,FL,31676,1444
+Los Angeles,TX,72493,1445
+San Diego,CA,77866,1446
+San Francisco,CA,30651,1447
+San Diego,CA,48533,1448
+Fresno,IL,47743,1449
+Fresno,CA,92161,1450
+Los Angeles,NY,16632,1451
+Sacramento,CA,88286,1452
+San Francisco,FL,13831,1453
+San Francisco,CA,58519,1454
+Los Angeles,IL,88449,1455
+Sacramento,NY,20336,1456
+Fresno,NY,92482,1457
+Fresno,TX,18987,1458
+San Diego,NY,43311,1459
+Fresno,TX,92714,1460
+Los Angeles,TX,89134,1461
+San Diego,TX,83362,1462
+Sacramento,NY,69720,1463
+San Francisco,TX,93926,1464
+Sacramento,TX,75022,1465
+Sacramento,CA,13806,1466
+Fresno,CA,67015,1467
+San Francisco,TX,46345,1468
+Sacramento,IL,77377,1469
+San Diego,IL,27746,1470
+Sacramento,NY,29253,1471
+San Francisco,NY,50058,1472
+Sacramento,NY,78417,1473
+San Francisco,FL,62236,1474
+San Diego,NY,76509,1475
+San Diego,IL,10617,1476
+Sacramento,CA,39573,1477
+Fresno,FL,59397,1478
+San Diego,FL,47551,1479
+Sacramento,TX,47857,1480
+San Francisco,TX,22352,1481
+San Diego,IL,45350,1482
+San Francisco,CA,63682,1483
+San Francisco,IL,14953,1484
+Los Angeles,FL,11197,1485
+Fresno,NY,34006,1486
+Los Angeles,FL,67275,1487
+San Francisco,IL,56583,1488
+Sacramento,IL,21455,1489
+Sacramento,TX,38208,1490
+Los Angeles,IL,35507,1491
+Los Angeles,TX,34696,1492
+Fresno,TX,83240,1493
+Fresno,IL,75571,1494
+Sacramento,IL,39262,1495
+Los Angeles,TX,13381,1496
+Fresno,CA,95682,1497
+Fresno,CA,49064,1498
+San Diego,FL,35494,1499
+San Francisco,IL,99955,1500
+San Diego,IL,70133,1501
+Los Angeles,CA,66789,1502
+Fresno,FL,12119,1503
+Sacramento,NY,41566,1504
+Los Angeles,IL,54302,1505
+Sacramento,IL,93365,1506
+Fresno,TX,13967,1507
+Sacramento,CA,31364,1508
+San Francisco,NY,84752,1509
+Fresno,CA,60495,1510
+Sacramento,CA,76924,1511
+Los Angeles,FL,96371,1512
+Fresno,IL,65768,1513
+San Diego,IL,50834,1514
+San Francisco,CA,52705,1515
+Los Angeles,CA,62063,1516
+San Diego,TX,98726,1517
+San Diego,IL,22445,1518
+San Francisco,NY,51002,1519
+San Francisco,TX,41506,1520
+San Francisco,CA,92333,1521
+Sacramento,NY,48036,1522
+San Francisco,FL,45047,1523
+Fresno,FL,46347,1524
+San Diego,NY,35198,1525
+San Francisco,FL,82428,1526
+San Diego,NY,66000,1527
+Sacramento,NY,15583,1528
+Sacramento,FL,92649,1529
+San Diego,NY,92760,1530
+San Francisco,FL,35662,1531
+Los Angeles,FL,95565,1532
+Los Angeles,CA,97508,1533
+San Francisco,CA,61959,1534
+San Francisco,TX,27440,1535
+Los Angeles,NY,31427,1536
+San Francisco,IL,79435,1537
+Fresno,NY,22468,1538
+San Francisco,CA,69412,1539
+Sacramento,NY,53941,1540
+San Diego,FL,48650,1541
+Fresno,NY,62544,1542
+Fresno,IL,94763,1543
+San Francisco,IL,36860,1544
+Fresno,CA,72546,1545
+Fresno,NY,88446,1546
+Fresno,IL,50137,1547
+San Francisco,FL,17886,1548
+Fresno,FL,13951,1549
+San Francisco,NY,37989,1550
+San Diego,TX,70384,1551
+Los Angeles,FL,13119,1552
+Fresno,CA,78357,1553
+San Diego,CA,21066,1554
+San Diego,IL,56122,1555
+Los Angeles,NY,25237,1556
+Los Angeles,TX,27691,1557
+San Diego,NY,80943,1558
+San Francisco,CA,38367,1559
+Sacramento,TX,14136,1560
+San Francisco,NY,18319,1561
+Los Angeles,IL,22124,1562
+Los Angeles,IL,88526,1563
+Fresno,IL,58931,1564
+San Diego,FL,50673,1565
+Sacramento,CA,79405,1566
+Los Angeles,IL,85999,1567
+Los Angeles,FL,23857,1568
+Los Angeles,FL,92240,1569
+San Diego,TX,60459,1570
+Fresno,IL,60012,1571
+Sacramento,TX,88736,1572
+Sacramento,NY,71689,1573
+San Francisco,CA,23327,1574
+Fresno,CA,28493,1575
+Fresno,TX,27528,1576
+Fresno,FL,63939,1577
+Los Angeles,TX,92336,1578
+San Francisco,IL,70025,1579
+Los Angeles,IL,48014,1580
+Fresno,NY,59303,1581
+Los Angeles,TX,67134,1582
+Los Angeles,FL,36541,1583
+Fresno,TX,75950,1584
+Fresno,IL,39103,1585
+Fresno,IL,73202,1586
+Los Angeles,NY,38181,1587
+San Francisco,NY,61785,1588
+San Diego,CA,92122,1589
+Fresno,NY,79620,1590
+Sacramento,NY,64105,1591
+Los Angeles,FL,95199,1592
+Fresno,NY,12157,1593
+Los Angeles,FL,11684,1594
+Sacramento,FL,39040,1595
+Sacramento,CA,41560,1596
+Sacramento,FL,94828,1597
+San Francisco,NY,39671,1598
+Los Angeles,NY,12078,1599
+San Francisco,FL,81195,1600
+Sacramento,CA,18659,1601
+Fresno,TX,46866,1602
+San Diego,CA,81664,1603
+Fresno,IL,67080,1604
+Sacramento,NY,99469,1605
+Fresno,FL,36635,1606
+San Francisco,IL,89613,1607
+San Francisco,NY,47999,1608
+Los Angeles,NY,84052,1609
+San Francisco,CA,67894,1610
+San Francisco,TX,78665,1611
+Los Angeles,TX,18513,1612
+San Francisco,FL,23237,1613
+San Francisco,CA,44651,1614
+Sacramento,CA,70082,1615
+San Francisco,TX,35912,1616
+Sacramento,TX,20444,1617
+San Francisco,IL,28838,1618
+San Diego,NY,40598,1619
+Los Angeles,CA,36915,1620
+San Diego,IL,84590,1621
+San Francisco,TX,51813,1622
+Los Angeles,CA,49902,1623
+San Diego,TX,74657,1624
+Sacramento,IL,72702,1625
+Fresno,TX,72560,1626
+Fresno,NY,96038,1627
+Fresno,FL,53172,1628
+Fresno,IL,51303,1629
+San Francisco,CA,49017,1630
+San Francisco,FL,44968,1631
+San Diego,NY,46612,1632
+Sacramento,NY,57945,1633
+San Diego,TX,49609,1634
+Sacramento,IL,44927,1635
+San Diego,FL,21893,1636
+Sacramento,FL,44376,1637
+Fresno,IL,52312,1638
+San Diego,NY,32524,1639
+San Francisco,FL,54024,1640
+San Francisco,NY,68130,1641
+Fresno,IL,23130,1642
+San Diego,CA,60440,1643
+San Diego,FL,56768,1644
+San Diego,IL,21705,1645
+Los Angeles,NY,35395,1646
+Los Angeles,CA,47236,1647
+Los Angeles,TX,59479,1648
+San Diego,NY,12372,1649
+Sacramento,NY,35223,1650
+Los Angeles,CA,84493,1651
+Fresno,TX,94640,1652
+San Francisco,FL,60231,1653
+Fresno,IL,82632,1654
+Los Angeles,FL,88530,1655
+Fresno,TX,54993,1656
+Los Angeles,TX,85045,1657
+San Francisco,TX,55113,1658
+San Francisco,TX,87865,1659
+San Francisco,FL,59792,1660
+Sacramento,NY,56988,1661
+Los Angeles,IL,77095,1662
+San Francisco,CA,20111,1663
+Fresno,TX,59637,1664
+Los Angeles,FL,28585,1665
+Sacramento,NY,19965,1666
+Los Angeles,TX,16960,1667
+Los Angeles,CA,26677,1668
+Los Angeles,NY,69486,1669
+Sacramento,CA,42718,1670
+San Diego,FL,10416,1671
+San Francisco,NY,31458,1672
+San Francisco,IL,50549,1673
+Los Angeles,FL,75254,1674
+Los Angeles,FL,18307,1675
+Los Angeles,NY,54519,1676
+Fresno,NY,62786,1677
+San Diego,FL,41233,1678
+Los Angeles,FL,10978,1679
+San Diego,FL,99226,1680
+Los Angeles,NY,66023,1681
+San Diego,IL,58479,1682
+Los Angeles,IL,73605,1683
+Los Angeles,TX,47765,1684
+San Diego,TX,77508,1685
+San Diego,NY,66033,1686
+Los Angeles,IL,55291,1687
+Sacramento,FL,69128,1688
+Fresno,FL,43311,1689
+Sacramento,NY,52069,1690
+San Diego,TX,62752,1691
+Fresno,IL,72829,1692
+San Francisco,FL,32256,1693
+Sacramento,CA,72193,1694
+Los Angeles,CA,26032,1695
+San Francisco,CA,85041,1696
+Los Angeles,CA,93184,1697
+San Francisco,CA,64707,1698
+Sacramento,TX,98635,1699
+San Francisco,CA,47969,1700
+Fresno,FL,13916,1701
+San Francisco,FL,33511,1702
+San Francisco,NY,73137,1703
+Fresno,TX,91478,1704
+Los Angeles,FL,21192,1705
+San Francisco,IL,50906,1706
+Los Angeles,CA,62280,1707
+San Francisco,IL,19447,1708
+San Francisco,NY,89904,1709
+Sacramento,IL,38784,1710
+Los Angeles,IL,91963,1711
+Los Angeles,CA,47210,1712
+Fresno,FL,70215,1713
+Sacramento,IL,54548,1714
+Fresno,TX,84482,1715
+San Diego,IL,53067,1716
+Los Angeles,CA,75233,1717
+San Diego,TX,41914,1718
+Fresno,IL,71447,1719
+Sacramento,CA,27579,1720
+Sacramento,TX,32785,1721
+San Diego,FL,37751,1722
+Sacramento,CA,42099,1723
+Sacramento,CA,13733,1724
+San Francisco,TX,93199,1725
+Sacramento,CA,79873,1726
+Sacramento,CA,45292,1727
+Fresno,TX,73437,1728
+San Francisco,IL,56669,1729
+San Diego,CA,22444,1730
+Fresno,IL,22268,1731
+San Diego,TX,59855,1732
+San Diego,CA,47734,1733
+San Francisco,FL,99940,1734
+Sacramento,IL,33519,1735
+San Francisco,TX,45493,1736
+San Diego,IL,17567,1737
+Los Angeles,TX,80793,1738
+Los Angeles,NY,53682,1739
+Fresno,FL,39489,1740
+Fresno,FL,18937,1741
+Fresno,NY,58935,1742
+Sacramento,CA,62633,1743
+San Francisco,CA,96678,1744
+San Francisco,IL,29567,1745
+Fresno,FL,71486,1746
+Sacramento,CA,40146,1747
+Fresno,FL,40774,1748
+San Diego,CA,24650,1749
+San Francisco,FL,83965,1750
+Los Angeles,TX,90909,1751
+Fresno,CA,39464,1752
+Fresno,NY,36565,1753
+Fresno,IL,22863,1754
+Fresno,FL,14986,1755
+San Diego,CA,18795,1756
+Fresno,CA,89688,1757
+Fresno,NY,45136,1758
+Fresno,FL,39321,1759
+Los Angeles,CA,45099,1760
+Fresno,FL,75339,1761
+Sacramento,NY,55582,1762
+San Diego,CA,74405,1763
+San Diego,CA,67980,1764
+San Diego,TX,24295,1765
+Los Angeles,NY,73870,1766
+Sacramento,IL,53719,1767
+San Francisco,FL,94653,1768
+San Diego,TX,11161,1769
+San Francisco,FL,36942,1770
+San Diego,TX,89282,1771
+San Diego,FL,23484,1772
+Los Angeles,CA,99833,1773
+Fresno,FL,21246,1774
+Fresno,TX,27368,1775
+Los Angeles,TX,48649,1776
+Sacramento,IL,77686,1777
+Los Angeles,CA,87095,1778
+San Diego,IL,31733,1779
+San Francisco,CA,41775,1780
+San Francisco,NY,38499,1781
+San Francisco,FL,54158,1782
+Sacramento,TX,39086,1783
+San Diego,FL,50594,1784
+Fresno,IL,57121,1785
+Los Angeles,CA,14869,1786
+Fresno,NY,16558,1787
+San Francisco,TX,74559,1788
+San Francisco,CA,59168,1789
+San Diego,CA,81788,1790
+Sacramento,IL,99458,1791
+San Francisco,TX,63394,1792
+Los Angeles,CA,54265,1793
+Fresno,FL,47215,1794
+Sacramento,IL,81002,1795
+San Francisco,IL,60302,1796
+Sacramento,CA,27614,1797
+San Francisco,IL,24515,1798
+Sacramento,NY,18166,1799
+Sacramento,IL,73499,1800
+Fresno,CA,20838,1801
+San Diego,FL,47585,1802
+Fresno,FL,42583,1803
+San Francisco,FL,29419,1804
+Fresno,IL,48794,1805
+Los Angeles,NY,74534,1806
+Fresno,FL,79704,1807
+Sacramento,FL,82216,1808
+Los Angeles,CA,42151,1809
+Fresno,NY,48506,1810
+Sacramento,IL,99411,1811
+Sacramento,NY,75044,1812
+Los Angeles,TX,64043,1813
+Fresno,CA,24208,1814
+Los Angeles,CA,12824,1815
+Sacramento,NY,24833,1816
+Sacramento,CA,74923,1817
+Fresno,CA,91225,1818
+Fresno,FL,55613,1819
+San Francisco,TX,98765,1820
+San Francisco,NY,13791,1821
+San Diego,FL,30020,1822
+Los Angeles,NY,10580,1823
+Sacramento,NY,90175,1824
+Los Angeles,CA,55660,1825
+San Diego,NY,80255,1826
+Los Angeles,TX,85304,1827
+Fresno,NY,49816,1828
+San Francisco,FL,47109,1829
+Sacramento,NY,49587,1830
+Sacramento,FL,96526,1831
+San Diego,IL,38046,1832
+San Diego,IL,60417,1833
+Sacramento,TX,73855,1834
+Los Angeles,TX,55397,1835
+San Francisco,TX,86142,1836
+Fresno,NY,41561,1837
+Sacramento,FL,85564,1838
+San Francisco,TX,79196,1839
+Fresno,CA,86532,1840
+San Diego,CA,29047,1841
+San Francisco,CA,52094,1842
+San Francisco,IL,68735,1843
+Fresno,CA,98694,1844
+Los Angeles,IL,16519,1845
+San Francisco,FL,91208,1846
+Fresno,FL,58030,1847
+San Francisco,FL,13564,1848
+Los Angeles,FL,77472,1849
+Sacramento,NY,94078,1850
+San Diego,IL,49251,1851
+Fresno,FL,74333,1852
+San Diego,CA,82020,1853
+Fresno,CA,58626,1854
+Fresno,CA,73201,1855
+San Diego,CA,38521,1856
+San Diego,TX,35007,1857
+San Diego,NY,59418,1858
+Los Angeles,NY,88644,1859
+San Francisco,NY,57158,1860
+Fresno,IL,12532,1861
+Fresno,IL,79672,1862
+Sacramento,CA,53411,1863
+San Francisco,CA,45612,1864
+San Diego,FL,64384,1865
+San Francisco,FL,57352,1866
+Sacramento,NY,44660,1867
+Los Angeles,CA,14871,1868
+San Diego,IL,33243,1869
+Los Angeles,FL,31199,1870
+San Francisco,IL,61889,1871
+Sacramento,NY,93475,1872
+San Diego,IL,94949,1873
+Sacramento,CA,49155,1874
+San Diego,CA,17898,1875
+San Francisco,IL,85654,1876
+San Francisco,FL,22485,1877
+Sacramento,TX,77190,1878
+Sacramento,IL,74608,1879
+San Francisco,TX,85430,1880
+San Diego,CA,75915,1881
+Sacramento,CA,24761,1882
+San Diego,FL,72503,1883
+San Diego,NY,95615,1884
+Fresno,TX,58601,1885
+San Diego,TX,25297,1886
+Fresno,CA,49968,1887
+Sacramento,FL,25867,1888
+San Diego,IL,79585,1889
+Fresno,NY,41583,1890
+Fresno,IL,17167,1891
+San Francisco,NY,64492,1892
+Fresno,IL,16887,1893
+San Francisco,CA,90874,1894
+Fresno,CA,53066,1895
+San Diego,IL,28138,1896
+Los Angeles,FL,21056,1897
+Sacramento,FL,70372,1898
+San Francisco,FL,57003,1899
+Los Angeles,FL,34275,1900
+San Diego,FL,69070,1901
+Fresno,CA,52305,1902
+Los Angeles,FL,54344,1903
+San Francisco,FL,49783,1904
+Fresno,FL,44922,1905
+Sacramento,CA,67646,1906
+Los Angeles,FL,43139,1907
+Sacramento,CA,60095,1908
+Los Angeles,TX,65504,1909
+San Francisco,IL,28163,1910
+Los Angeles,CA,81107,1911
+San Diego,IL,53430,1912
+Sacramento,NY,67859,1913
+Fresno,NY,14659,1914
+San Diego,NY,66643,1915
+San Francisco,CA,67726,1916
+San Francisco,FL,27037,1917
+Los Angeles,CA,64507,1918
+Sacramento,CA,92519,1919
+Sacramento,FL,85052,1920
+San Diego,IL,91990,1921
+Los Angeles,IL,67992,1922
+Sacramento,NY,93328,1923
+San Francisco,CA,44960,1924
+San Diego,FL,85377,1925
+Los Angeles,NY,32122,1926
+Los Angeles,CA,63109,1927
+Sacramento,IL,29497,1928
+Sacramento,NY,22614,1929
+San Diego,IL,17597,1930
+Sacramento,NY,50727,1931
+San Diego,NY,22202,1932
+San Diego,NY,32625,1933
+San Diego,IL,99077,1934
+San Francisco,CA,31277,1935
+Fresno,NY,37973,1936
+Fresno,NY,78518,1937
+Los Angeles,CA,19495,1938
+Los Angeles,NY,91480,1939
+Fresno,IL,93059,1940
+San Diego,IL,36616,1941
+Sacramento,FL,53456,1942
+Sacramento,IL,55641,1943
+San Diego,FL,23424,1944
+San Diego,IL,75241,1945
+Fresno,IL,37778,1946
+Fresno,TX,19568,1947
+Los Angeles,NY,10334,1948
+San Diego,CA,58326,1949
+Los Angeles,CA,48435,1950
+Fresno,IL,83139,1951
+Sacramento,NY,55598,1952
+Fresno,NY,49075,1953
+Sacramento,NY,97171,1954
+San Diego,TX,52184,1955
+San Francisco,CA,12658,1956
+Los Angeles,FL,79098,1957
+Sacramento,TX,12670,1958
+Sacramento,IL,33000,1959
+Sacramento,TX,34584,1960
+Sacramento,CA,14344,1961
+San Francisco,TX,21963,1962
+Los Angeles,TX,32546,1963
+Fresno,IL,39951,1964
+Sacramento,NY,16246,1965
+San Diego,FL,35455,1966
+Los Angeles,TX,78192,1967
+Los Angeles,IL,63105,1968
+San Diego,CA,57203,1969
+Sacramento,FL,45847,1970
+Sacramento,CA,60641,1971
+Sacramento,IL,37566,1972
+Sacramento,IL,96591,1973
+Sacramento,TX,25541,1974
+San Francisco,IL,69345,1975
+San Francisco,FL,12385,1976
+Los Angeles,FL,99474,1977
+Los Angeles,IL,78338,1978
+Los Angeles,NY,64500,1979
+San Diego,CA,29707,1980
+Fresno,TX,60175,1981
+Sacramento,CA,44426,1982
+San Diego,TX,62271,1983
+San Francisco,TX,70050,1984
+Sacramento,NY,19584,1985
+San Diego,TX,13737,1986
+Sacramento,TX,12697,1987
+San Francisco,IL,57058,1988
+San Francisco,CA,12184,1989
+San Francisco,CA,51915,1990
+Fresno,IL,11490,1991
+Los Angeles,CA,29033,1992
+Fresno,CA,54993,1993
+San Francisco,NY,68667,1994
+San Diego,NY,47929,1995
+San Diego,IL,66456,1996
+San Diego,CA,75023,1997
+Sacramento,IL,36123,1998
+San Francisco,IL,42352,1999
+San Francisco,TX,70953,2000
+Los Angeles,NY,45081,2001
+Los Angeles,FL,83045,2002
+San Francisco,IL,29514,2003
+San Diego,FL,84198,2004
+Sacramento,NY,77681,2005
+San Francisco,NY,49105,2006
+San Francisco,TX,29839,2007
+Sacramento,FL,17275,2008
+San Diego,IL,24689,2009
+Fresno,IL,42271,2010
+San Diego,IL,21158,2011
+San Diego,NY,14696,2012
+San Diego,NY,34517,2013
+San Francisco,NY,93066,2014
+Los Angeles,CA,67228,2015
+San Francisco,CA,92828,2016
+Los Angeles,CA,54178,2017
+San Diego,CA,14862,2018
+Fresno,NY,42379,2019
+San Francisco,TX,68312,2020
+San Diego,FL,96844,2021
+Sacramento,NY,36216,2022
+San Francisco,TX,76098,2023
+Fresno,FL,11217,2024
+Los Angeles,IL,45712,2025
+San Francisco,IL,54997,2026
+Fresno,TX,21350,2027
+San Francisco,CA,65526,2028
+Sacramento,NY,74303,2029
+San Francisco,TX,31215,2030
+Sacramento,IL,52410,2031
+San Francisco,CA,68317,2032
+Sacramento,NY,91711,2033
+Los Angeles,FL,79724,2034
+San Francisco,IL,56536,2035
+San Francisco,CA,18648,2036
+Sacramento,NY,81929,2037
+Los Angeles,FL,20851,2038
+San Francisco,TX,72148,2039
+Los Angeles,FL,25999,2040
+Sacramento,CA,22975,2041
+Fresno,TX,35646,2042
+San Francisco,NY,52206,2043
+Sacramento,IL,64667,2044
+Fresno,IL,62369,2045
+San Diego,NY,91039,2046
+San Francisco,NY,46321,2047
+Los Angeles,CA,13319,2048
+Sacramento,FL,16968,2049
+Fresno,CA,92818,2050
+San Diego,CA,68978,2051
+Fresno,NY,62758,2052
+San Diego,FL,19349,2053
+Los Angeles,TX,48055,2054
+Sacramento,IL,59736,2055
+San Francisco,FL,74766,2056
+Fresno,FL,91628,2057
+Fresno,NY,83413,2058
+Los Angeles,IL,41731,2059
+San Francisco,FL,93817,2060
+Fresno,NY,91641,2061
+Los Angeles,FL,71445,2062
+San Diego,TX,30564,2063
+San Francisco,IL,76206,2064
+San Francisco,NY,71220,2065
+Los Angeles,NY,73252,2066
+Sacramento,IL,57265,2067
+Los Angeles,CA,54611,2068
+San Francisco,FL,62332,2069
+San Francisco,CA,42736,2070
+Sacramento,FL,37877,2071
+Sacramento,TX,30883,2072
+San Francisco,IL,58605,2073
+Fresno,CA,93941,2074
+Los Angeles,NY,75225,2075
+San Diego,FL,18089,2076
+Sacramento,CA,13531,2077
+Sacramento,IL,49878,2078
+San Francisco,TX,96466,2079
+Fresno,TX,19174,2080
+Fresno,IL,32179,2081
+Sacramento,FL,35096,2082
+Fresno,NY,42123,2083
+San Francisco,IL,90436,2084
+San Francisco,CA,80159,2085
+Fresno,IL,59014,2086
+Fresno,CA,88744,2087
+Sacramento,FL,60507,2088
+San Diego,TX,62447,2089
+Los Angeles,CA,25054,2090
+Los Angeles,NY,66487,2091
+Sacramento,NY,42611,2092
+Fresno,FL,46903,2093
+Fresno,TX,12761,2094
+San Francisco,TX,80491,2095
+San Francisco,FL,66081,2096
+Los Angeles,CA,16392,2097
+Sacramento,NY,62413,2098
+San Diego,CA,81825,2099
+Sacramento,FL,92292,2100
+San Francisco,CA,85224,2101
+San Francisco,IL,59545,2102
+Los Angeles,IL,69880,2103
+Fresno,CA,22001,2104
+Los Angeles,IL,14171,2105
+Sacramento,NY,81379,2106
+San Diego,TX,28912,2107
+Los Angeles,IL,91991,2108
+Los Angeles,NY,69470,2109
+Fresno,IL,97298,2110
+San Diego,FL,84305,2111
+San Diego,IL,84314,2112
+San Diego,CA,51208,2113
+Los Angeles,TX,73045,2114
+San Diego,IL,72249,2115
+San Francisco,IL,57861,2116
+Sacramento,IL,60157,2117
+Sacramento,CA,41797,2118
+Fresno,NY,20922,2119
+San Francisco,TX,84600,2120
+Sacramento,IL,79056,2121
+Fresno,IL,93607,2122
+San Diego,CA,60875,2123
+Fresno,CA,21097,2124
+San Francisco,IL,79825,2125
+San Diego,NY,99660,2126
+Sacramento,TX,51838,2127
+Sacramento,CA,52087,2128
+San Diego,NY,35530,2129
+San Diego,IL,13222,2130
+Los Angeles,FL,38613,2131
+Fresno,IL,12309,2132
+San Francisco,FL,95350,2133
+Los Angeles,NY,62583,2134
+San Diego,IL,66109,2135
+San Francisco,TX,87803,2136
+Sacramento,CA,16022,2137
+Los Angeles,IL,97674,2138
+San Diego,FL,62559,2139
+Sacramento,NY,98562,2140
+Sacramento,NY,18019,2141
+San Francisco,TX,89641,2142
+San Diego,FL,44504,2143
+Los Angeles,IL,44449,2144
+San Francisco,IL,37560,2145
+Fresno,TX,92901,2146
+San Diego,TX,97723,2147
+Fresno,TX,88406,2148
+Fresno,IL,64363,2149
+San Diego,TX,18958,2150
+Sacramento,CA,82125,2151
+Los Angeles,CA,56664,2152
+San Diego,FL,23062,2153
+San Francisco,NY,20961,2154
+Fresno,CA,50273,2155
+San Diego,IL,43420,2156
+Los Angeles,NY,92407,2157
+Fresno,IL,34454,2158
+Los Angeles,NY,87356,2159
+Sacramento,CA,75868,2160
+Sacramento,TX,65166,2161
+Fresno,TX,69272,2162
+Sacramento,FL,88216,2163
+San Diego,FL,90147,2164
+Sacramento,FL,91809,2165
+Los Angeles,FL,20151,2166
+Fresno,NY,68236,2167
+San Diego,IL,39067,2168
+Los Angeles,FL,49782,2169
+San Francisco,TX,12037,2170
+Sacramento,CA,72224,2171
+Los Angeles,CA,34706,2172
+Los Angeles,FL,16982,2173
+San Francisco,IL,35549,2174
+Fresno,FL,85014,2175
+Fresno,TX,46959,2176
+Fresno,CA,21860,2177
+San Diego,CA,93478,2178
+Fresno,CA,63899,2179
+Sacramento,CA,88464,2180
+Sacramento,NY,36185,2181
+Los Angeles,NY,35075,2182
+San Francisco,IL,82166,2183
+Los Angeles,TX,19992,2184
+Los Angeles,FL,40319,2185
+San Francisco,FL,85572,2186
+Los Angeles,CA,61427,2187
+Fresno,FL,21356,2188
+Los Angeles,FL,11595,2189
+San Diego,FL,70713,2190
+San Diego,CA,42092,2191
+Los Angeles,NY,17336,2192
+Los Angeles,FL,13336,2193
+Fresno,FL,14695,2194
+San Diego,IL,71107,2195
+Fresno,CA,94503,2196
+San Diego,IL,17198,2197
+Sacramento,TX,48480,2198
+Fresno,TX,29671,2199
+Los Angeles,TX,88270,2200
+Sacramento,IL,87952,2201
+San Diego,CA,74961,2202
+San Francisco,TX,26090,2203
+Fresno,IL,19990,2204
+San Diego,NY,59100,2205
+San Diego,NY,69433,2206
+San Francisco,IL,52565,2207
+San Francisco,TX,89150,2208
+Fresno,IL,50468,2209
+Fresno,FL,91578,2210
+Fresno,TX,26426,2211
+San Francisco,TX,37461,2212
+San Francisco,IL,68470,2213
+Los Angeles,NY,19011,2214
+Los Angeles,FL,47488,2215
+Los Angeles,TX,50049,2216
+Sacramento,IL,52654,2217
+Sacramento,TX,67674,2218
+San Diego,TX,81946,2219
+San Diego,NY,31872,2220
+Sacramento,FL,19965,2221
+San Francisco,NY,66268,2222
+Los Angeles,IL,27879,2223
+Sacramento,CA,55823,2224
+Sacramento,FL,11175,2225
+San Diego,FL,82188,2226
+Los Angeles,FL,49745,2227
+San Francisco,FL,54762,2228
+Fresno,NY,63254,2229
+San Francisco,IL,48888,2230
+Fresno,CA,59274,2231
+Los Angeles,NY,49328,2232
+Los Angeles,CA,33353,2233
+San Francisco,TX,82956,2234
+San Diego,CA,53119,2235
+Los Angeles,IL,36720,2236
+Fresno,TX,58683,2237
+Los Angeles,CA,53835,2238
+Sacramento,CA,25265,2239
+San Francisco,FL,41817,2240
+Fresno,FL,59825,2241
+Fresno,NY,92018,2242
+Sacramento,CA,75619,2243
+Sacramento,NY,80466,2244
+San Diego,TX,18625,2245
+San Francisco,TX,21054,2246
+San Diego,TX,11517,2247
+Los Angeles,IL,23456,2248
+San Diego,NY,56617,2249
+San Diego,IL,92002,2250
+Los Angeles,TX,73223,2251
+San Francisco,FL,84862,2252
+Sacramento,FL,62364,2253
+San Diego,FL,13373,2254
+San Diego,IL,36566,2255
+Sacramento,IL,57743,2256
+San Diego,TX,85988,2257
+San Diego,IL,60251,2258
+Sacramento,TX,45058,2259
+Fresno,FL,15208,2260
+San Diego,NY,86716,2261
+Fresno,CA,79869,2262
+Sacramento,NY,96802,2263
+Fresno,IL,69172,2264
+Sacramento,TX,52085,2265
+San Diego,TX,86478,2266
+Los Angeles,IL,49058,2267
+San Francisco,FL,44868,2268
+San Diego,TX,58644,2269
+Sacramento,TX,80992,2270
+San Diego,IL,23325,2271
+San Francisco,CA,66767,2272
+San Diego,IL,98218,2273
+San Diego,NY,60212,2274
+Los Angeles,NY,88981,2275
+Sacramento,FL,56656,2276
+Los Angeles,FL,53119,2277
+Fresno,TX,81440,2278
+Fresno,TX,57201,2279
+San Diego,CA,65088,2280
+Fresno,TX,88534,2281
+San Francisco,CA,20246,2282
+San Diego,CA,14992,2283
+Sacramento,TX,28763,2284
+San Diego,TX,44519,2285
+Fresno,CA,12498,2286
+San Francisco,NY,41619,2287
+Sacramento,FL,24576,2288
+San Diego,NY,43051,2289
+San Diego,FL,55020,2290
+Los Angeles,CA,32456,2291
+Los Angeles,TX,43647,2292
+Sacramento,TX,42121,2293
+San Francisco,IL,38871,2294
+San Diego,TX,81109,2295
+Los Angeles,NY,75220,2296
+San Francisco,IL,43019,2297
+Los Angeles,TX,83809,2298
+Los Angeles,IL,63376,2299
+San Francisco,TX,36990,2300
+San Francisco,FL,44583,2301
+Los Angeles,CA,40751,2302
+San Diego,TX,97190,2303
+Sacramento,CA,21289,2304
+San Diego,NY,39662,2305
+Sacramento,CA,44461,2306
+Fresno,IL,60396,2307
+Sacramento,NY,86614,2308
+Los Angeles,NY,90761,2309
+Sacramento,CA,36868,2310
+San Francisco,CA,43832,2311
+San Diego,CA,79772,2312
+Sacramento,FL,72455,2313
+Los Angeles,NY,72490,2314
+Fresno,NY,50553,2315
+Los Angeles,FL,64486,2316
+Fresno,CA,93761,2317
+Los Angeles,IL,22560,2318
+Los Angeles,CA,39553,2319
+Fresno,CA,90049,2320
+Fresno,TX,81534,2321
+Sacramento,CA,38728,2322
+San Francisco,CA,43032,2323
+Fresno,TX,69983,2324
+San Diego,CA,93305,2325
+San Francisco,NY,63758,2326
+Fresno,NY,86255,2327
+Los Angeles,TX,86392,2328
+Sacramento,IL,87872,2329
+Fresno,TX,10536,2330
+Los Angeles,CA,39632,2331
+Sacramento,IL,91711,2332
+Sacramento,NY,19611,2333
+Los Angeles,FL,30850,2334
+Sacramento,IL,87329,2335
+Fresno,CA,42332,2336
+Los Angeles,IL,55515,2337
+San Francisco,NY,92035,2338
+Los Angeles,FL,83930,2339
+Fresno,CA,98695,2340
+San Diego,TX,96081,2341
+Sacramento,CA,92484,2342
+Sacramento,CA,93008,2343
+Sacramento,TX,61576,2344
+San Francisco,TX,75902,2345
+Fresno,FL,38628,2346
+San Francisco,FL,60225,2347
+San Francisco,TX,56905,2348
+San Francisco,CA,33634,2349
+Sacramento,FL,85240,2350
+Fresno,CA,27696,2351
+Fresno,TX,57095,2352
+Los Angeles,NY,12662,2353
+Los Angeles,NY,95297,2354
+Sacramento,NY,24915,2355
+Fresno,NY,76828,2356
+Fresno,NY,35115,2357
+Sacramento,NY,37203,2358
+Los Angeles,IL,53697,2359
+Los Angeles,FL,27588,2360
+Sacramento,IL,65857,2361
+Sacramento,TX,41371,2362
+Sacramento,IL,84496,2363
+Los Angeles,CA,87781,2364
+Los Angeles,NY,99258,2365
+Fresno,FL,64412,2366
+Sacramento,CA,16961,2367
+Sacramento,IL,76660,2368
+Los Angeles,NY,44822,2369
+Fresno,TX,45404,2370
+Los Angeles,FL,86034,2371
+San Francisco,CA,15276,2372
+Fresno,NY,83220,2373
+San Diego,CA,63640,2374
+San Francisco,TX,64916,2375
+San Diego,IL,78460,2376
+Los Angeles,FL,42734,2377
+Fresno,TX,76238,2378
+Los Angeles,CA,63071,2379
+San Francisco,FL,21233,2380
+San Francisco,FL,13360,2381
+San Francisco,NY,37047,2382
+Sacramento,CA,30852,2383
+Fresno,FL,76872,2384
+San Francisco,IL,98660,2385
+Fresno,CA,64140,2386
+Fresno,NY,44872,2387
+Sacramento,TX,66680,2388
+Sacramento,CA,56610,2389
+Fresno,FL,94589,2390
+Los Angeles,TX,28238,2391
+Los Angeles,TX,47247,2392
+San Francisco,FL,82843,2393
+Los Angeles,NY,64566,2394
+Los Angeles,IL,41219,2395
+Sacramento,TX,49352,2396
+Los Angeles,CA,47133,2397
+San Francisco,CA,79829,2398
+Fresno,CA,97823,2399
+Los Angeles,FL,55537,2400
+Sacramento,NY,38529,2401
+San Francisco,FL,31671,2402
+San Francisco,CA,35368,2403
+Los Angeles,CA,37017,2404
+Los Angeles,FL,47278,2405
+San Diego,TX,34088,2406
+San Diego,TX,24971,2407
+Sacramento,IL,17843,2408
+Los Angeles,FL,32705,2409
+Los Angeles,CA,84254,2410
+Fresno,NY,48796,2411
+Sacramento,NY,35774,2412
+San Diego,FL,96515,2413
+San Diego,IL,61427,2414
+Los Angeles,CA,42468,2415
+Los Angeles,CA,33549,2416
+Fresno,FL,65915,2417
+Fresno,FL,14407,2418
+Los Angeles,CA,41858,2419
+Los Angeles,FL,57304,2420
+Fresno,IL,56633,2421
+San Diego,IL,63703,2422
+Los Angeles,CA,84873,2423
+Fresno,CA,15079,2424
+Los Angeles,TX,30522,2425
+Los Angeles,NY,54046,2426
+Los Angeles,NY,57914,2427
+Fresno,IL,43818,2428
+Sacramento,IL,54592,2429
+Los Angeles,TX,21619,2430
+San Francisco,CA,30494,2431
+San Francisco,NY,45954,2432
+Los Angeles,FL,82694,2433
+Sacramento,TX,21178,2434
+San Francisco,TX,94550,2435
+San Diego,NY,22902,2436
+San Diego,TX,57259,2437
+Fresno,TX,48748,2438
+Los Angeles,FL,38144,2439
+San Diego,IL,14783,2440
+Fresno,NY,55175,2441
+San Francisco,IL,75630,2442
+San Diego,CA,42031,2443
+Fresno,NY,71418,2444
+San Diego,NY,10015,2445
+San Diego,FL,39622,2446
+Los Angeles,TX,10068,2447
+Fresno,CA,91382,2448
+San Francisco,CA,16675,2449
+Sacramento,CA,73131,2450
+Fresno,FL,10177,2451
+Fresno,NY,97897,2452
+San Francisco,TX,20397,2453
+Los Angeles,NY,13028,2454
+San Francisco,TX,24068,2455
+San Francisco,IL,88717,2456
+Fresno,IL,71256,2457
+Fresno,FL,31513,2458
+Fresno,IL,17027,2459
+Los Angeles,CA,40641,2460
+Sacramento,FL,28063,2461
+San Francisco,CA,50263,2462
+Fresno,NY,12937,2463
+San Diego,TX,80716,2464
+San Diego,IL,48152,2465
+Los Angeles,FL,72880,2466
+Los Angeles,CA,56372,2467
+Los Angeles,CA,54472,2468
+San Diego,TX,35221,2469
+Fresno,CA,71836,2470
+Los Angeles,IL,94687,2471
+San Francisco,TX,12129,2472
+Los Angeles,NY,53443,2473
+San Diego,TX,97974,2474
+San Diego,NY,76487,2475
+Fresno,FL,96969,2476
+San Francisco,FL,15800,2477
+Los Angeles,FL,68966,2478
+Sacramento,NY,32713,2479
+Fresno,FL,71252,2480
+San Diego,FL,14756,2481
+Los Angeles,TX,93006,2482
+Sacramento,FL,54203,2483
+San Diego,FL,15937,2484
+San Diego,IL,46465,2485
+Fresno,TX,99071,2486
+Sacramento,CA,33180,2487
+San Francisco,CA,31860,2488
+San Francisco,TX,14091,2489
+Fresno,TX,46489,2490
+Fresno,IL,14649,2491
+Fresno,FL,37362,2492
+Fresno,CA,49637,2493
+Sacramento,TX,14794,2494
+San Francisco,NY,72478,2495
+Los Angeles,NY,98903,2496
+Sacramento,NY,97192,2497
+Sacramento,FL,98581,2498
+San Diego,TX,72949,2499
+San Francisco,IL,90870,2500
+Sacramento,FL,64643,2501
+Sacramento,NY,35537,2502
+San Francisco,CA,52843,2503
+Los Angeles,FL,41767,2504
+Sacramento,TX,31183,2505
+Sacramento,FL,93992,2506
+Sacramento,IL,79161,2507
+Sacramento,FL,21071,2508
+San Diego,TX,29957,2509
+Los Angeles,CA,16787,2510
+San Francisco,NY,71717,2511
+Sacramento,TX,63296,2512
+Los Angeles,CA,70574,2513
+Los Angeles,CA,85350,2514
+San Diego,CA,27608,2515
+San Francisco,FL,51061,2516
+Sacramento,IL,88532,2517
+Sacramento,IL,96442,2518
+San Francisco,FL,36272,2519
+Sacramento,FL,41440,2520
+Sacramento,NY,62542,2521
+Sacramento,FL,46081,2522
+San Francisco,CA,87215,2523
+Fresno,CA,54737,2524
+Los Angeles,FL,99142,2525
+Los Angeles,FL,34395,2526
+Los Angeles,CA,79755,2527
+Sacramento,IL,67956,2528
+Sacramento,TX,87399,2529
+San Francisco,TX,23668,2530
+Los Angeles,NY,93832,2531
+Fresno,CA,42083,2532
+San Francisco,FL,58725,2533
+Fresno,IL,49310,2534
+Fresno,FL,11392,2535
+San Diego,NY,69770,2536
+San Francisco,TX,99109,2537
+San Diego,CA,39273,2538
+Los Angeles,TX,82851,2539
+San Francisco,IL,94122,2540
+San Francisco,CA,37653,2541
+Fresno,FL,72704,2542
+San Francisco,NY,75563,2543
+San Diego,CA,51904,2544
+Sacramento,IL,34748,2545
+San Francisco,CA,12301,2546
+San Diego,FL,42128,2547
+San Francisco,NY,52335,2548
+San Diego,CA,39144,2549
+San Francisco,IL,77910,2550
+San Diego,TX,89949,2551
+Sacramento,TX,70846,2552
+Fresno,FL,71049,2553
+Sacramento,FL,15971,2554
+Fresno,FL,61189,2555
+Fresno,TX,87047,2556
+San Francisco,NY,11212,2557
+Fresno,TX,85872,2558
+Fresno,FL,82252,2559
+San Diego,CA,81965,2560
+San Francisco,TX,69022,2561
+Los Angeles,CA,25354,2562
+San Diego,IL,68572,2563
+Fresno,TX,39619,2564
+San Francisco,TX,40214,2565
+Fresno,IL,87777,2566
+Los Angeles,IL,49498,2567
+Los Angeles,CA,78041,2568
+San Diego,TX,68659,2569
+Los Angeles,TX,21255,2570
+San Francisco,NY,54069,2571
+San Diego,IL,15359,2572
+Fresno,TX,95064,2573
+San Diego,TX,56546,2574
+San Diego,TX,70440,2575
+Los Angeles,NY,59917,2576
+San Diego,IL,87567,2577
+San Diego,TX,64486,2578
+Los Angeles,CA,83219,2579
+San Francisco,FL,89048,2580
+Fresno,CA,15004,2581
+San Francisco,IL,29177,2582
+Sacramento,CA,48888,2583
+Fresno,CA,24550,2584
+Los Angeles,FL,57691,2585
+Fresno,TX,57184,2586
+San Diego,IL,25581,2587
+San Francisco,NY,73076,2588
+Los Angeles,NY,15899,2589
+San Diego,IL,49351,2590
+San Francisco,TX,60062,2591
+Los Angeles,IL,13121,2592
+Fresno,FL,61689,2593
+Fresno,FL,77955,2594
+San Diego,CA,69013,2595
+Los Angeles,CA,36484,2596
+San Francisco,IL,14524,2597
+San Francisco,NY,68864,2598
+Los Angeles,TX,13032,2599
+Fresno,IL,97789,2600
+San Francisco,FL,22910,2601
+Fresno,NY,94096,2602
+San Diego,TX,38395,2603
+Sacramento,NY,64385,2604
+San Francisco,FL,35493,2605
+San Diego,TX,89979,2606
+Fresno,CA,80231,2607
+Sacramento,FL,22414,2608
+Los Angeles,NY,19656,2609
+San Francisco,CA,80773,2610
+San Diego,NY,42327,2611
+Fresno,IL,52034,2612
+San Diego,FL,24359,2613
+Los Angeles,IL,26190,2614
+San Diego,IL,67088,2615
+Sacramento,TX,13557,2616
+San Francisco,IL,45797,2617
+Sacramento,IL,50963,2618
+San Diego,CA,38624,2619
+Fresno,CA,39426,2620
+Sacramento,NY,35587,2621
+San Francisco,FL,73490,2622
+San Diego,NY,71253,2623
+Sacramento,TX,44938,2624
+Sacramento,CA,43399,2625
+Sacramento,CA,44942,2626
+Sacramento,NY,79679,2627
+Los Angeles,TX,35408,2628
+Los Angeles,IL,52754,2629
+San Francisco,NY,59991,2630
+San Diego,IL,65240,2631
+San Diego,FL,89898,2632
+Los Angeles,NY,86802,2633
+Los Angeles,NY,86926,2634
+Fresno,FL,80351,2635
+Fresno,NY,35778,2636
+San Diego,FL,86871,2637
+San Francisco,NY,51805,2638
+Fresno,FL,16407,2639
+Los Angeles,IL,83882,2640
+Los Angeles,CA,57464,2641
+San Francisco,NY,55776,2642
+San Diego,FL,62730,2643
+Los Angeles,CA,30028,2644
+Sacramento,IL,85906,2645
+Los Angeles,FL,62853,2646
+Los Angeles,NY,35374,2647
+Los Angeles,NY,86128,2648
+San Diego,IL,31284,2649
+San Diego,TX,28207,2650
+Los Angeles,NY,70569,2651
+Fresno,CA,63326,2652
+San Francisco,TX,39748,2653
+Fresno,TX,24387,2654
+San Diego,NY,21933,2655
+Sacramento,IL,72103,2656
+San Diego,NY,30325,2657
+San Diego,NY,87954,2658
+Los Angeles,IL,43975,2659
+Los Angeles,NY,82594,2660
+San Diego,CA,90159,2661
+Sacramento,NY,51702,2662
+Los Angeles,IL,29255,2663
+Sacramento,TX,25138,2664
+San Diego,IL,86775,2665
+San Francisco,FL,28779,2666
+San Diego,FL,41974,2667
+San Francisco,TX,46390,2668
+San Francisco,IL,37799,2669
+San Diego,NY,82664,2670
+San Diego,CA,17279,2671
+San Francisco,TX,58087,2672
+Los Angeles,CA,96815,2673
+San Diego,NY,98880,2674
+Sacramento,TX,97988,2675
+San Francisco,TX,85803,2676
+San Diego,TX,92796,2677
+Fresno,CA,20224,2678
+San Diego,TX,72741,2679
+Los Angeles,NY,30810,2680
+Los Angeles,IL,27723,2681
+Fresno,NY,41611,2682
+San Francisco,NY,57725,2683
+San Diego,CA,74406,2684
+Sacramento,TX,69180,2685
+Fresno,TX,41345,2686
+Los Angeles,NY,38615,2687
+San Francisco,IL,84376,2688
+San Francisco,TX,18384,2689
+Sacramento,CA,47481,2690
+San Francisco,TX,55834,2691
+San Francisco,NY,50636,2692
+Fresno,CA,90226,2693
+Fresno,NY,57885,2694
+Sacramento,TX,93874,2695
+Fresno,FL,30885,2696
+Los Angeles,CA,43095,2697
+San Francisco,IL,16179,2698
+Fresno,FL,18368,2699
+Los Angeles,CA,41408,2700
+Los Angeles,TX,76192,2701
+Fresno,IL,63613,2702
+San Diego,FL,84340,2703
+Fresno,TX,56087,2704
+San Diego,CA,24019,2705
+Los Angeles,TX,98287,2706
+San Diego,FL,95381,2707
+Sacramento,IL,67024,2708
+Fresno,CA,78123,2709
+San Francisco,NY,81044,2710
+Los Angeles,FL,19164,2711
+Fresno,FL,86282,2712
+Sacramento,NY,67076,2713
+San Diego,TX,18270,2714
+Sacramento,TX,48621,2715
+San Diego,TX,34479,2716
+Fresno,FL,91456,2717
+Sacramento,TX,47603,2718
+San Francisco,FL,35848,2719
+San Francisco,FL,90716,2720
+Sacramento,TX,77443,2721
+Sacramento,CA,36321,2722
+Fresno,CA,23513,2723
+Sacramento,FL,48318,2724
+Fresno,CA,45968,2725
+Sacramento,IL,60698,2726
+Sacramento,IL,41117,2727
+Sacramento,IL,51738,2728
+San Diego,IL,63000,2729
+San Francisco,FL,53861,2730
+Los Angeles,CA,65443,2731
+Fresno,FL,56693,2732
+Fresno,FL,36849,2733
+Sacramento,TX,91718,2734
+Fresno,NY,38380,2735
+Los Angeles,CA,35510,2736
+Sacramento,FL,92176,2737
+Sacramento,TX,83045,2738
+Fresno,NY,57171,2739
+San Diego,NY,61047,2740
+Sacramento,CA,58637,2741
+San Diego,FL,29963,2742
+San Francisco,FL,79247,2743
+Sacramento,NY,85493,2744
+Fresno,CA,23016,2745
+Fresno,FL,92602,2746
+San Francisco,CA,61938,2747
+Los Angeles,TX,10450,2748
+Los Angeles,NY,22716,2749
+Los Angeles,CA,29157,2750
+San Diego,NY,59726,2751
+San Diego,NY,91619,2752
+San Francisco,TX,85729,2753
+San Francisco,IL,22633,2754
+San Francisco,NY,46688,2755
+San Diego,CA,33706,2756
+Sacramento,NY,95684,2757
+Los Angeles,TX,72653,2758
+Los Angeles,FL,20558,2759
+San Diego,TX,63355,2760
+Los Angeles,CA,78697,2761
+Los Angeles,NY,12354,2762
+Sacramento,CA,74852,2763
+San Diego,CA,95539,2764
+Sacramento,TX,68089,2765
+Sacramento,TX,12493,2766
+Sacramento,FL,35806,2767
+Fresno,NY,99876,2768
+Los Angeles,TX,70880,2769
+San Francisco,FL,83451,2770
+Los Angeles,FL,85992,2771
+Los Angeles,NY,52078,2772
+San Francisco,FL,62173,2773
+San Francisco,FL,91060,2774
+Los Angeles,TX,94702,2775
+Sacramento,CA,85944,2776
+Los Angeles,TX,78842,2777
+San Diego,FL,41350,2778
+Fresno,TX,41173,2779
+Los Angeles,CA,17314,2780
+San Diego,CA,30843,2781
+San Francisco,IL,52827,2782
+San Francisco,FL,27987,2783
+San Diego,IL,70311,2784
+San Francisco,NY,66386,2785
+San Francisco,IL,72524,2786
+Sacramento,CA,39890,2787
+Fresno,FL,98607,2788
+Los Angeles,FL,42154,2789
+San Diego,IL,57800,2790
+San Francisco,NY,96346,2791
+Fresno,CA,40235,2792
+Fresno,TX,88709,2793
+Fresno,TX,26810,2794
+San Diego,CA,11839,2795
+Fresno,NY,66338,2796
+Los Angeles,CA,65697,2797
+Sacramento,TX,71127,2798
+Los Angeles,TX,84106,2799
+San Francisco,NY,96680,2800
+Sacramento,TX,89343,2801
+San Francisco,IL,86526,2802
+Fresno,TX,37227,2803
+San Francisco,CA,12052,2804
+San Francisco,TX,20864,2805
+San Diego,CA,53653,2806
+Los Angeles,TX,37076,2807
+Los Angeles,CA,16323,2808
+San Diego,NY,51574,2809
+Sacramento,IL,23654,2810
+San Francisco,FL,64894,2811
+San Diego,FL,78547,2812
+San Diego,CA,50413,2813
+Los Angeles,TX,43488,2814
+Los Angeles,NY,83167,2815
+San Diego,CA,85233,2816
+San Diego,NY,81930,2817
+San Diego,NY,21470,2818
+Fresno,CA,67379,2819
+San Diego,FL,25609,2820
+Los Angeles,NY,61827,2821
+San Francisco,CA,33365,2822
+Los Angeles,NY,45361,2823
+San Diego,FL,38507,2824
+San Francisco,FL,12418,2825
+San Diego,CA,62921,2826
+Los Angeles,NY,91478,2827
+Sacramento,CA,18472,2828
+San Francisco,CA,13622,2829
+Sacramento,NY,86627,2830
+Fresno,FL,44378,2831
+San Diego,CA,22847,2832
+Fresno,CA,19720,2833
+San Diego,CA,79001,2834
+Los Angeles,IL,38102,2835
+Los Angeles,FL,87189,2836
+San Diego,NY,88281,2837
+Fresno,CA,55323,2838
+San Diego,CA,86089,2839
+San Diego,FL,78715,2840
+Sacramento,FL,45908,2841
+Fresno,CA,15862,2842
+Fresno,NY,88057,2843
+Sacramento,IL,27961,2844
+San Diego,NY,97516,2845
+Los Angeles,NY,35740,2846
+San Diego,TX,59765,2847
+San Diego,CA,16266,2848
+San Francisco,CA,70948,2849
+Sacramento,CA,37474,2850
+San Diego,CA,33017,2851
+San Diego,NY,84715,2852
+Los Angeles,TX,64025,2853
+San Francisco,IL,44229,2854
+Sacramento,CA,84786,2855
+Sacramento,NY,76941,2856
+San Diego,FL,46459,2857
+Fresno,FL,77711,2858
+Fresno,CA,58762,2859
+Fresno,TX,63709,2860
+San Francisco,TX,68029,2861
+Los Angeles,NY,81118,2862
+San Diego,IL,70204,2863
+San Diego,NY,61819,2864
+Sacramento,NY,57772,2865
+Los Angeles,FL,52466,2866
+Fresno,TX,30783,2867
+San Francisco,TX,21351,2868
+Fresno,FL,14777,2869
+San Diego,CA,42663,2870
+San Diego,FL,76522,2871
+Sacramento,CA,20843,2872
+Los Angeles,FL,27616,2873
+San Diego,IL,49096,2874
+San Francisco,TX,22618,2875
+Fresno,TX,75011,2876
+Fresno,IL,95305,2877
+San Francisco,NY,36464,2878
+San Diego,FL,52128,2879
+Fresno,IL,40800,2880
+Los Angeles,FL,44474,2881
+Fresno,TX,12486,2882
+Fresno,IL,19079,2883
+San Francisco,CA,10863,2884
+Los Angeles,FL,89715,2885
+San Francisco,NY,12985,2886
+San Diego,IL,10072,2887
+San Diego,FL,65642,2888
+Los Angeles,CA,76215,2889
+Los Angeles,CA,89565,2890
+Fresno,CA,17469,2891
+Sacramento,NY,82942,2892
+Fresno,NY,43605,2893
+Sacramento,IL,99272,2894
+San Diego,CA,80202,2895
+Sacramento,IL,22289,2896
+Los Angeles,TX,98154,2897
+Fresno,IL,85461,2898
+Los Angeles,CA,25852,2899
+San Francisco,IL,51041,2900
+Sacramento,NY,73820,2901
+Fresno,NY,65592,2902
+Los Angeles,IL,23601,2903
+Sacramento,FL,36164,2904
+Los Angeles,IL,85231,2905
+Sacramento,TX,96179,2906
+San Diego,CA,47565,2907
+Sacramento,CA,98321,2908
+San Diego,FL,34347,2909
+San Diego,NY,97588,2910
+Sacramento,TX,27878,2911
+Sacramento,NY,87245,2912
+San Diego,FL,15561,2913
+San Francisco,NY,55455,2914
+Fresno,FL,71572,2915
+San Diego,FL,32402,2916
+San Diego,CA,13109,2917
+Sacramento,TX,36593,2918
+Fresno,FL,69768,2919
+Los Angeles,NY,47085,2920
+San Francisco,CA,30879,2921
+Fresno,TX,77172,2922
+Fresno,TX,88176,2923
+San Diego,TX,96424,2924
+San Diego,FL,31413,2925
+San Diego,CA,16818,2926
+Sacramento,TX,35544,2927
+Sacramento,IL,20235,2928
+Sacramento,TX,36212,2929
+Sacramento,NY,40627,2930
+San Francisco,FL,67386,2931
+Fresno,FL,49998,2932
+Los Angeles,TX,10491,2933
+Sacramento,CA,48995,2934
+Fresno,NY,40673,2935
+Los Angeles,TX,28140,2936
+Sacramento,FL,96257,2937
+San Francisco,FL,57075,2938
+San Francisco,NY,20228,2939
+San Francisco,NY,81096,2940
+Fresno,FL,51176,2941
+Fresno,CA,31282,2942
+San Diego,TX,78722,2943
+San Francisco,NY,54506,2944
+Sacramento,NY,91219,2945
+Los Angeles,TX,36687,2946
+Fresno,TX,97184,2947
+San Diego,IL,69637,2948
+San Francisco,TX,64803,2949
+Fresno,FL,13536,2950
+Fresno,IL,22788,2951
+Sacramento,TX,59416,2952
+Los Angeles,IL,79542,2953
+San Francisco,CA,25725,2954
+San Francisco,CA,42585,2955
+Fresno,IL,12612,2956
+San Francisco,IL,76081,2957
+Los Angeles,TX,95141,2958
+San Diego,FL,36770,2959
+San Diego,TX,74466,2960
+Sacramento,NY,35803,2961
+San Diego,IL,94424,2962
+Los Angeles,IL,38506,2963
+Los Angeles,IL,64432,2964
+Los Angeles,TX,65534,2965
+Los Angeles,NY,84171,2966
+Fresno,CA,65770,2967
+San Francisco,NY,67187,2968
+Los Angeles,IL,50359,2969
+San Diego,IL,52545,2970
+Sacramento,IL,22390,2971
+Sacramento,CA,13327,2972
+Fresno,CA,88090,2973
+San Francisco,NY,83512,2974
+Fresno,IL,60525,2975
+Fresno,CA,35039,2976
+San Diego,IL,41905,2977
+San Diego,TX,31755,2978
+San Francisco,TX,22545,2979
+Sacramento,FL,27085,2980
+San Diego,NY,62862,2981
+Fresno,FL,12390,2982
+Los Angeles,NY,72696,2983
+Sacramento,CA,96358,2984
+San Diego,IL,25597,2985
+San Diego,IL,35123,2986
+Sacramento,IL,80471,2987
+San Diego,TX,78499,2988
+Sacramento,CA,39627,2989
+Fresno,TX,62804,2990
+San Diego,TX,99740,2991
+Los Angeles,NY,89198,2992
