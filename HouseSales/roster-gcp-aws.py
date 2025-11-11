@@ -8,109 +8,113 @@ import os
 PLATFORM = os.getenv("DB_PLATFORM", "AWS").upper()
 
 def getconn():
-    if PLATFORM == "GCP":
-        # ----- GCP ONLY -----
-        # install: pip install PyMySQL cloud-sql-python-connector
-        from google.cloud.sql.connector import Connector
-
-        # NOTE: use a raw string for Windows paths to avoid backslash escapes
-        os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"C:\path\to\your-key.json"
-
-        connector = Connector()
-        return connector.connect(
-            "project:region:instance",   # e.g. "csc-ser325:us-central1:db325-instance"
-            "pymysql",
-            user="root",
-            password="your-password",
-            db=None               # or None if you prefer to CREATE first, then USE
-        )
-    else:
         # ----- AWS ONLY -----
         # install: pip install PyMySQL
         return pymysql.connect(
-            host="mydb.xxxxxx.us-east-1.rds.amazonaws.com",  # RDS endpoint = host
+            host="database-1.cfqmw8c6u8ay.us-east-2.rds.amazonaws.com",  # RDS endpoint = host
             port=3306,                                       # MySQL default port
             user="admin",
-            password="your-password",
-            database=None                            # or None if you CREATE first
+            password="ReeyaPatel",
+
+            #database=None                            # or None if you CREATE first
         )
     
 def setup_db(cur):
-  # Set up db
-    cur.execute('CREATE DATABASE IF NOT EXISTS roster_db')
-    cur.execute('USE roster_db')
+    # Create & select a DB for this project
+    cur.execute('CREATE DATABASE IF NOT EXISTS house_sales_db')
+    cur.execute('USE house_sales_db')
 
+    # Drop in dependency order
     cur.execute('DROP TABLE IF EXISTS Member;')
-    cur.execute('DROP TABLE IF EXISTS Course;')    
+    cur.execute('DROP TABLE IF EXISTS Course;')
     cur.execute('DROP TABLE IF EXISTS User;')
 
-
-    
+    # Widen columns so real data fits (addresses & MLS ids can be long)
     cur.execute('''
         CREATE TABLE User (
-        id     INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
-            name   VARCHAR(20) UNIQUE);
-        ''');
+            id   INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+            name VARCHAR(255) UNIQUE
+        );
+    ''')
 
-    cur.execute('''CREATE TABLE Course (
-            id     INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
-            title  VARCHAR(20) UNIQUE);
-        ''');
+    cur.execute('''
+        CREATE TABLE Course (
+            id    INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+            title VARCHAR(100) UNIQUE
+        );
+    ''')
 
-    cur.execute('''CREATE TABLE Member (
-            user_id     INT,
-            course_id   INT,
-            role        INT,
-            FOREIGN KEY(user_id) REFERENCES User(id),
+    cur.execute('''
+        CREATE TABLE Member (
+            user_id   INT,
+            course_id INT,
+            role      INT,
+            FOREIGN KEY(user_id)  REFERENCES User(id),
             FOREIGN KEY(course_id) REFERENCES Course(id),
             PRIMARY KEY (user_id, course_id)
         );
-        ''')
+    ''')
+
 
 def insert_data(cur):
-    cur.execute('USE roster_db')
+    # use the DB we created in Step 1
+    cur.execute('USE house_sales_db')
 
-    fname = 'roster_data.json'
+    fname = 'house_sales_data.json'   # your generated JSON (array-of-arrays)
 
-    #Data structure as follows:
-    #   [
-    #   [ "Charley", "si110", 1 ],
-    #   [ "Mea", "si110", 0 ],
+    # open and load
+    with open(fname, 'r', encoding='utf-8') as f:
+        json_data = json.load(f)
 
-    # open the file and read 
-    str_data = open(fname).read()
-    # load the data in a json object
-    json_data = json.loads(str_data)
+    # HouseSales JSON order (for reference):
+    # 0 Price, 1 Address, 2 City, 3 Zipcode, 4 State, 5 Bedrooms, 6 Bathrooms,
+    # 7 Area (sqft), 8 Lot Size, 9 Year Built, 10 Days on Market,
+    # 11 Property Type, 12 MLS ID, 13 Listing Agent, 14 Status, 15 Listing URL
 
-    #json data is loaded in a pyton list
+    # Map common Status strings to integers for Member.role
+    status_map = {
+        "Active": 1,
+        "Pending": 2,
+        "Sold": 3,
+        "Inactive": 0
+    }
+
     for entry in json_data:
+        # pull the three fields we need
+        address  = str(entry[1]).strip()   # -> User.name
+        mls_id   = str(entry[12]).strip()  # -> Course.title
+        status_s = str(entry[14]).strip()  # -> Member.role (int)
 
-        name = entry[0]
-        title = entry[1]
+        # coerce status to int (try numeric, else map, else 0)
+        try:
+            role_int = int(float(status_s))
+        except Exception:
+            role_int = status_map.get(status_s, 0)
 
-        print(name)
-        print(title)
+        # visibility while loading
+        print(address, " | ", mls_id, " | role:", role_int)
 
-        # INSERT OR IGNORE satisfies the uniqueness constraint. the inserted data will be ignored if we try to add duplicates.
-        # works as both insert and update
-        cur.execute('''INSERT IGNORE INTO User (name)  
-            VALUES ( %s )''', (name) )
-            
-        # look up the primary key from inserted data.		
-        cur.execute('SELECT id FROM User WHERE name = %s ', (name, ))
+        # INSERT IGNORE keeps uniqueness semantics like the original
+        cur.execute('''INSERT IGNORE INTO User (name)
+                       VALUES (%s)''', (address, ))   # NOTE: tuple (address,)
+
+        # fetch id
+        cur.execute('SELECT id FROM User WHERE name = %s', (address, ))
         user_id = cur.fetchone()[0]
 
-        # same technique is used to insert the title
-        cur.execute('''INSERT IGNORE INTO Course (title) 
-            VALUES ( %s )''', ( title, ) )
-        cur.execute('SELECT id FROM Course WHERE title = %s ', (title, ))
+        # same for "Course" (we store MLS ID as the unique title)
+        cur.execute('''INSERT IGNORE INTO Course (title)
+                       VALUES (%s)''', (mls_id, ))    # tuple (mls_id,)
+
+        cur.execute('SELECT id FROM Course WHERE title = %s', (mls_id, ))
         course_id = cur.fetchone()[0]
-        
-        #insert both keys in the many to many connector table.
-        cur.execute('''INSERT IGNORE INTO Member
-            (user_id, course_id) VALUES ( %s, %s )''', 
-            ( user_id, course_id ) )
-cnx = getconn() 
+
+        # link table with role = status code
+        cur.execute('''INSERT IGNORE INTO Member (user_id, course_id, role)
+                       VALUES (%s, %s, %s)''',
+                    (user_id, course_id, role_int))
+
+cnx = getconn()
 cur = cnx.cursor()
 print("Starting Setup...")
 setup_db(cur)
