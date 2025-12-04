@@ -11,10 +11,10 @@ def getconn():
         # ----- AWS ONLY -----
         # install: pip install PyMySQL
         return pymysql.connect(
-            host="database-1.cfqmw8c6u8ay.us-east-2.rds.amazonaws.com",  # RDS endpoint = host
+            host="database-termproject.cfqmw8c6u8ay.us-east-2.rds.amazonaws.com",  # RDS endpoint = host
             port=3306,                                       # MySQL default port
             user="admin",
-            password="ReeyaPatel",
+            password="ReeyaPatel111.",
 
             #database=None                            # or None if you CREATE first
         )
